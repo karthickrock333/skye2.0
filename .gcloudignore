@@ -1,0 +1,101 @@
+# =============================================================================
+# HD SKYE Agent v2 - GCloud Ignore
+# =============================================================================
+# Files and directories to ignore when deploying to Cloud Run/Cloud Build
+
+# Include .gitignore patterns
+#!include:.gitignore
+
+# Git
+.git/
+.gitignore
+.gitattributes
+
+# Environment files (secrets)
+.env
+.env.*
+!.env.example
+
+# Auth files - never upload (except hd-onedata-prod.json needed in build)
+auth.json
+!hd-onedata-prod.json
+service-accounts/
+*.pem
+*.key
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+tests/
+test/
+*_test.py
+test_*.py
+coverage/
+.coverage
+htmlcov/
+pytest.ini
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Scripts (not needed in deployment)
+scripts/
+
+# Local development files
+*.local
+.local/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.log
+
+# Node modules (will be installed in container)
+node_modules/
+frontend/node_modules/
+
+# Build outputs (rebuilt in container)
+dist/
+build/
+frontend/dist/
+
+# ADK local session data
+backend/agents/.adk/
+
+# Debug / test scripts at root
+check_*.py
+create_*.py
+debug_*.py
+list_*.py
+test*.py
+run_local.sh

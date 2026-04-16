@@ -1,0 +1,2276 @@
+{
+  "phase": "1b",
+  "description": "Near-garbage chunks 20-50 chars",
+  "total_scanned": 32789,
+  "chunks_to_delete": 378,
+  "chunks": [
+    {
+      "id": "KB0012267_871a94bec722fe51b51dc67c1eb2c257",
+      "text": "| 0 2 3  Hi report |\n| --- |",
+      "length": 28,
+      "source": "Recognition Quick Guide - Employees.pdf"
+    },
+    {
+      "id": "KB0012267_962101b1871e64a7b0a9fa24468918cd",
+      "text": "| Hi report Logout |\n| --- |",
+      "length": 28,
+      "source": "Recognition Quick Guide - Manager.pdf"
+    },
+    {
+      "id": "KB0012272_834f15a694da9c21a62bdc72655eb4de",
+      "text": "| Prep  Details  Scorecard |\n| --- |",
+      "length": 36,
+      "source": "Greenhouse Mobile App.pdf"
+    },
+    {
+      "id": "KB0012272_8de7c23c0cce369cfe75ba4116ecaf47",
+      "text": "| x Reject Feedback Advance |\n| --- |",
+      "length": 37,
+      "source": "Greenhouse Mobile App.pdf"
+    },
+    {
+      "id": "KB0012346_c4d63d3fed0acfd39d3a02a30755dc60",
+      "text": "12\nOracle Applications Home Page\nTest 2\nX\nEmployee",
+      "length": 50,
+      "source": "PeopleDirect Manager Self-Service Guide (2).pdf"
+    },
+    {
+      "id": "KB0012408_1d9cf3a21b4b4e9276f840bd5a2a19d8",
+      "text": "| Date | Description of revision |\n| --- | --- |",
+      "length": 48,
+      "source": "HD Car Policy for Poland_bilingual_Oct-2025.pdf"
+    },
+    {
+      "id": "KB0012408_88d2f9896ada553b349c6fef7bbaf1ea",
+      "text": "15\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026.",
+      "length": 22,
+      "source": "HD Car Policy for Poland_bilingual_Oct-2025.pdf"
+    },
+    {
+      "id": "KB0012470_7f7e4f8dcadc9d34dd49c05ce2a59346",
+      "text": "Page 1 of 1\nEffective Date: 22-SEP-2017",
+      "length": 39,
+      "source": "U.S. Employment At-Will Policy.pdf"
+    },
+    {
+      "id": "KB0012723_01fbb01e8b6a7279de5b4a0770845bcd",
+      "text": "1 bag for travel with 7 days or less.",
+      "length": 37,
+      "source": "Hitachi Global Travel and Expense Policy.pdf"
+    },
+    {
+      "id": "KB0012723_83f7314ac963d49c7ee412fac624a79d",
+      "text": "| Limit for Missing Receipt Requirement |\n| --- |",
+      "length": 49,
+      "source": "Hitachi Global Travel and Expense Policy.pdf"
+    },
+    {
+      "id": "KB0012726_1b39b1c13187a9c9703efd726fb66d9f",
+      "text": "| \u73bb\u5229\u7ef4\u4e9a | $30 |\n| --- | --- |\n| \u52a0\u62ff\u5927 | $150 |",
+      "length": 43,
+      "source": "Third-Party Gifts, Travel & Entertainment Policy Final 03Jan2018_ZH-CN (1).pdf"
+    },
+    {
+      "id": "KB0012726_8163841071f911b5c834a18ee5ad2820",
+      "text": "| Australia $50 |\n| --- |\n| $50 Hong Kong |",
+      "length": 43,
+      "source": "Pol\u00edtica Global de Obsequios, Viajes y Entretenimiento.pdf"
+    },
+    {
+      "id": "KB0012726_a4aa9d9a666300656d4b8808cb39f33f",
+      "text": "| \u0411\u043e\u043b\u0438\u0432\u0438\u044f | $30 |\n| --- | --- |\n| \u041a\u0430\u043d\u0430\u0434\u0430 | $150 |",
+      "length": 49,
+      "source": "Third-Party Gifts Travel  Entertainment Policy Final 042018_RU.pdf"
+    },
+    {
+      "id": "KB0012734_cc774464e5964315f6128fa800a25ff3",
+      "text": "| \u30c7\u30fc\u30bf\u306e\u5206\u985e\u3068\u53d6\u308a\u6271 \u3044 \u6a19\u6e96 |\n| --- |",
+      "length": 27,
+      "source": "Data Classification and Handling Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0012778_5f0a9fee2acba9aaecaf64d6d446c722",
+      "text": "| Employee Name |\n| --- |\n| Employee ID |",
+      "length": 41,
+      "source": "ANZ Annual Leave Policy.pdf"
+    },
+    {
+      "id": "KB0012778_f20aceb5615d09bbd2433d3d1a4e317c",
+      "text": "| Signed by Employee |\n| --- |\n| Date Signed |",
+      "length": 46,
+      "source": "ANZ Annual Leave Policy.pdf"
+    },
+    {
+      "id": "KB0012784_b888308f0a0c98e2ed9dbf29c8911fd7",
+      "text": "| Contents |\n| --- |\n| Scope: |",
+      "length": 31,
+      "source": "AUS Long Service Leave Policy.pdf"
+    },
+    {
+      "id": "KB0012787_9654904a777348722ffa28c3117aa576",
+      "text": "| Contents Scope: |\n| --- |",
+      "length": 27,
+      "source": "AUS Workers Compensation Policy.pdf"
+    },
+    {
+      "id": "KB0012811_81bab299437e4d6a4660275cc921d64a",
+      "text": "1.0\nEducational Assistance Program Overview",
+      "length": 43,
+      "source": "U.S. Educational Assistance Policy & Procedure.pdf"
+    },
+    {
+      "id": "KB0012861_5c68803461fcf617c6d38bdd35864f1f",
+      "text": "1.0\n3.0\n\n4.0\nObjectives",
+      "length": 23,
+      "source": "SSAF - HIV-Aids Policy.pdf"
+    },
+    {
+      "id": "KB0012869_f1b623a130bd6e3e7518a7145552938b",
+      "text": "1.0\nVerbotenes Verhalten",
+      "length": 24,
+      "source": "Global Possession and Use of Alcohol Policy deutsch.pdf"
+    },
+    {
+      "id": "KB0012911_5f42d0accff13fd31bb960f88e4fcbb8",
+      "text": "Section\n1.0\n2.0\n\n3.0\n4.0",
+      "length": 24,
+      "source": "Hitachi Digital - Global Physical Security Policy.pdf"
+    },
+    {
+      "id": "KB0012926_9107081f7cbffb36ec05159f25b5302d",
+      "text": "1.0 Policy Statement",
+      "length": 20,
+      "source": "Global Employment Screening Policy.pdf"
+    },
+    {
+      "id": "KB0012987_edeb9b3c13fee39df8ff2be06d45993c",
+      "text": "| Jobs | E |\n| --- | --- |\n| Job Areas | E |",
+      "length": 44,
+      "source": "Global Referral Policy V05 - March 23 2026.pdf"
+    },
+    {
+      "id": "KB0012998_e944bc85aa77fd4476c39717e0777ade",
+      "text": "3\n..3\nRelated Documents ......",
+      "length": 30,
+      "source": "US Hitachi Vantara Adoption Assistance Policy - Jan 1 2022.pdf"
+    },
+    {
+      "id": "KB0013433_ee7698af38306a56d91023bd4ab9bcb2",
+      "text": "1.0\nRegular Work Schedule",
+      "length": 25,
+      "source": "US Compensation of Non-Exempt Employees Policy v2_07.26.18.pdf"
+    },
+    {
+      "id": "KB0013699_b559dc9c710debb7a6df6555a2744d8d",
+      "text": "| Stop recording |\n| --- |",
+      "length": 26,
+      "source": "Charte du droit \u00e0 la d\u00e9connexion VF.pdf"
+    },
+    {
+      "id": "KB0013773_0e5ac123a8ca603dbd767eaa264e39b1",
+      "text": "| Ready Last Updated On 2018-10-18 |\n| --- |",
+      "length": 44,
+      "source": "OnboardNow Information and General FAQs - New to Hitachi Candidates_FINAL_11.07.18.pdf"
+    },
+    {
+      "id": "KB0013774_f1ede8427d316ad6b8bdf230066eb066",
+      "text": "1\nRecognition Direct\nI\nIgnite",
+      "length": 29,
+      "source": "OnboardNow Information and General FAQs - Hiring Managers_Updated 1.17.19 (1).pdf"
+    },
+    {
+      "id": "KB0013780_8eb220dd0c71f41a94f00c6b5a02f2bd",
+      "text": "| Ready Last Updated On 2018-10-18 |\n| --- |",
+      "length": 44,
+      "source": "OnboardNow Information and General FAQs - Internal Candidates_FINAL_11.07.18.pdf"
+    },
+    {
+      "id": "KB0014274_1e231e0cf1365dd4d670306e35d64f2d",
+      "text": "| Claimed |\n| --- |\n| 0.00 |\n| 0.00 |",
+      "length": 37,
+      "source": "Ascender PeoplePay - Self Service Guide.pdf"
+    },
+    {
+      "id": "KB0014274_3694519f9d8c090987653824cb2fbadd",
+      "text": "0.00\n0.00\nDependant:\nSGD\n\n0.00\n0.00",
+      "length": 35,
+      "source": "Ascender PeoplePay - Self Service Guide.pdf"
+    },
+    {
+      "id": "KB0014274_cff5c8d2c9a3b79656847e61641aa111",
+      "text": "| Balance |\n| --- |\n| 0.00 |\n| 0.00 |",
+      "length": 37,
+      "source": "Ascender PeoplePay - Self Service Guide.pdf"
+    },
+    {
+      "id": "KB0014412_150c4ffd473baf9e8d83f0b4dab7d65e",
+      "text": "| City State Zip Code |\n| --- |",
+      "length": 31,
+      "source": "Virginia VA-4.pdf"
+    },
+    {
+      "id": "KB0014412_243f6dca81c131cce7fcd7f6a7280b0b",
+      "text": "| Office use only |\n| --- |",
+      "length": 27,
+      "source": "Oregon OR-W-4.pdf"
+    },
+    {
+      "id": "KB0014412_63aa768a9c5be10088e9ac44f1df7df6",
+      "text": "| Your signature Date |\n| --- |",
+      "length": 31,
+      "source": "Idaho ID W-4.pdf"
+    },
+    {
+      "id": "KB0014412_674e08c345431cee2c591c17f76b0f7c",
+      "text": "| Office use only |\n| --- |",
+      "length": 27,
+      "source": "Oregon OR-W-4.pdf"
+    },
+    {
+      "id": "KB0014412_739ce8ce454ecdef1e5f66caed2b35ce",
+      "text": "| City or Town State ZIP Code |\n| --- |",
+      "length": 39,
+      "source": "Oklahoma OK-W-4.pdf"
+    },
+    {
+      "id": "KB0014412_8d3d0a18e6701a6921018fbaa6d19281",
+      "text": "00\n- Keep this worksheet for your records -",
+      "length": 43,
+      "source": "Oregon OR-W-4.pdf"
+    },
+    {
+      "id": "KB0014412_98df24c30285507b0d162255fd018278",
+      "text": "| Office use only |\n| --- |",
+      "length": 27,
+      "source": "Oregon OR-W-4.pdf"
+    },
+    {
+      "id": "KB0014873_1bf84988d46853206f614023abe840e5",
+      "text": "| Last name First name Reason |\n| --- |",
+      "length": 39,
+      "source": "iA Member Change Request Form.pdf"
+    },
+    {
+      "id": "KB0014873_779619977ceafacbedb8a84ce4340f67",
+      "text": "iAm\nGroup Savings and Retirement",
+      "length": 32,
+      "source": "iA Member Change Request Form.pdf"
+    },
+    {
+      "id": "KB0014877_d049a767c68444eda19320f43178d0d5",
+      "text": "1.0 Hiring of current or former Public Officials",
+      "length": 48,
+      "source": "Global Guidelines on Hiring Public Officials.pdf"
+    },
+    {
+      "id": "KB0017148_2b101f8b66d309c768b15fd6fca6a12c",
+      "text": "Chapter 1: General Rules",
+      "length": 24,
+      "source": "Tax Policy - Rules for Global Tax Management.pdf"
+    },
+    {
+      "id": "KB0017148_aa05810c81f8223dbcb3791c5a76b10e",
+      "text": "Chapter 1: General Rules",
+      "length": 24,
+      "source": "Tax Policy - Detailed Rules for TP Management.pdf"
+    },
+    {
+      "id": "KB0017319_60f052fa8d2271019ac636cb22b70a29",
+      "text": "6\n7\nCompany Confidential-For Internal Use Only",
+      "length": 46,
+      "source": "UK IR35 policy.pdf"
+    },
+    {
+      "id": "KB0017400_35d9607e8129b6b13a8cdf682a6a0e42",
+      "text": "1.2.3\nExcess Baggage\nNot applicable",
+      "length": 35,
+      "source": "International Assignment Policy - Short-Term.pdf"
+    },
+    {
+      "id": "KB0017400_958bd38a9e13b81c9309b11022d91d26",
+      "text": "1.2.8\nDependent Education\nNot applicable",
+      "length": 40,
+      "source": "International Assignment Policy - Short-Term.pdf"
+    },
+    {
+      "id": "KB0017406_1ae6c5b8ed5ac2f882271263a48b8e92",
+      "text": "Section\n1.0\n2.0\n\n3.0\n4.0",
+      "length": 24,
+      "source": "Global Foreign Currency Management Policy.pdf"
+    },
+    {
+      "id": "KB0017542_ad0cfe5c8269da62d1e3e7826dfe4026",
+      "text": "| \u5b9c X | B\u00ba |\n| --- | --- |\n| Phone Email | Team |",
+      "length": 49,
+      "source": "1. Hitachi Alert Guide.pdf"
+    },
+    {
+      "id": "KB0017644_31ec22af685a4ce015daf89a23c0cf58",
+      "text": "2\n2. Scope\n.2\n3. Type of leave...",
+      "length": 33,
+      "source": "Leave Policy - Vietnam .pdf"
+    },
+    {
+      "id": "KB0017650_699748c7c8bc6d81f30a1caedae3f02d",
+      "text": "| Authorized by: Uday Chander Signature: |\n| --- |",
+      "length": 50,
+      "source": "Hitachi India Retirement Policy_April_2025.pdf"
+    },
+    {
+      "id": "KB0017921_45b1f9f3349516e509806e3fb70acbad",
+      "text": "12.4.1 Global Information Security Policy",
+      "length": 41,
+      "source": "Espa\u00f1a - Pol\u00edtica de Trabajo a Distancia.pdf"
+    },
+    {
+      "id": "KB0017921_e0a28a484a1235b5afbe6bdf21eff3e4",
+      "text": "12.4.2 Acceptable Use Policy",
+      "length": 28,
+      "source": "Espa\u00f1a - Pol\u00edtica de Trabajo a Distancia.pdf"
+    },
+    {
+      "id": "KB0017921_f6a4b0fa6580299ce8d34fc8a19bf5b8",
+      "text": "1.0\nTeletrabajo Ocasional",
+      "length": 25,
+      "source": "Espa\u00f1a - Pol\u00edtica de Trabajo a Distancia.pdf"
+    },
+    {
+      "id": "KB0018086_1e732c70b4e8cc061798c9fc01114b3a",
+      "text": "| EE |\n| --- |\n| = |",
+      "length": 20,
+      "source": "Gender Transition Process Guide - Spanish v2.pdf"
+    },
+    {
+      "id": "KB0018086_23b7e8dcde34918fe4ae018db39c1e9b",
+      "text": "| Drops here  Sel |\n| --- |",
+      "length": 27,
+      "source": "Gender Transition Process Guide - Portuguese v2.pdf"
+    },
+    {
+      "id": "KB0018086_a0ece7b33db44f9001cc5695095e149e",
+      "text": "| Drops here  S |\n| --- |",
+      "length": 25,
+      "source": "Gender Transition Process Guide - Spanish v2.pdf"
+    },
+    {
+      "id": "KB0018086_b2d84c3605bc3110aa7459bf41d7ea98",
+      "text": "| EE |\n| --- |\n| = |",
+      "length": 20,
+      "source": "Gender Transition Process Guide - Portuguese v2.pdf"
+    },
+    {
+      "id": "KB0018086_b8b0c5a653c6d737389a456f46f9f314",
+      "text": "| EE |\n| --- |\n| = |",
+      "length": 20,
+      "source": "Gender Transition Process Guide - English v2.pdf"
+    },
+    {
+      "id": "KB0018086_bb61b92e0a4a7f8cb210a0f87696f11f",
+      "text": "| Gender  Gender*  Male |\n| --- |",
+      "length": 33,
+      "source": "Gender Transition Process Guide - Portuguese v2.pdf"
+    },
+    {
+      "id": "KB0018167_139d65d71aa4fab5d6c062b3e7708595",
+      "text": "| Notificaci\u00f3n de mensaje \u2610 |\n| --- |",
+      "length": 37,
+      "source": "Right to Disconnect Policy Hitachi Vantara Italia S.r.l. a s.u._EN.pdf"
+    },
+    {
+      "id": "KB0018206_25402272d79a31f9860201dc57ff72b2",
+      "text": "| --- |\n| 23 | Page |",
+      "length": 21,
+      "source": "Artificial Intelligence Security Standard.pdf"
+    },
+    {
+      "id": "KB0018206_f4ec88319a0855a74275e1c4460b0aab",
+      "text": "| \u8cac\u4efb\u3042\u308b \u5b9f IT\u3001 |\n| --- |",
+      "length": 22,
+      "source": "Artificial Intelligence Security Standard_ Japanese.pdf"
+    },
+    {
+      "id": "KB0018206_ffb3a8eacc58ef2093c2efe9a891bd15",
+      "text": "8\n**.23\nrials\nTH, EL TH",
+      "length": 23,
+      "source": "Artificial Intelligence Security Standard.pdf"
+    },
+    {
+      "id": "KB0018268_fce953d9def847a5ff81c895713f3b62",
+      "text": "1\nScope.\n\n1\nProgram Details\n\n2\nRelated Documents..",
+      "length": 50,
+      "source": "Medical Checkup Subsidy Program - Indonesia.pdf"
+    },
+    {
+      "id": "KB0018329_148bce25792c92961432e5a3d2c35ae0",
+      "text": "1.0\nConciencia de la necesidad de desconexi\u00f3n",
+      "length": 45,
+      "source": "Espa\u00f1a - Pol\u00edtica de Derecho a la Desconexi\u00f3n Digital - ES.pdf"
+    },
+    {
+      "id": "KB0018329_a5d40e7c3f820b1ec490953b8bfea53a",
+      "text": "| Notificaci\u00f3n de mensaje |\n| --- |",
+      "length": 35,
+      "source": "Espa\u00f1a - Pol\u00edtica de Derecho a la Desconexi\u00f3n Digital - ES.pdf"
+    },
+    {
+      "id": "KB0018329_d8600a1b571ee6b70ada386cacefd8f3",
+      "text": "| Notificaci\u00f3n de mensaje |\n| --- |",
+      "length": 35,
+      "source": "Spain - Right to Digital Disconnection Policy - EN.pdf"
+    },
+    {
+      "id": "KB0018330_6e3eef4547b291628e19f40bab454663",
+      "text": "| S M T W T  1 H 2 3 4 5 6 7 |\n| --- |",
+      "length": 38,
+      "source": "Espa\u00f1a - Pol\u00edtica de Ausencias y Vacaciones - ES.pdf"
+    },
+    {
+      "id": "KB0018330_bc783d27adb38995d2a7f3681a571fb1",
+      "text": "| S M T W T  1 H 2 3 4 5 6 7 |\n| --- |",
+      "length": 38,
+      "source": "Spain - Leave of Absence and Vacations Policy - EN.pdf"
+    },
+    {
+      "id": "KB0018331_17f7566bcd3b091af07d97c4539e1bb8",
+      "text": "2\n2. Scope.\n\n2\n3. Regulation ......\n\n2\nU\n\n5\n5",
+      "length": 45,
+      "source": "Spain - CSS Department Availability policy HV - EN.pdf"
+    },
+    {
+      "id": "KB0018332_763e4a64f3783a02b9641a8d9915d536",
+      "text": "2\n3. Regulation\n\n2\n4",
+      "length": 20,
+      "source": "Spain - Availability Policy for Services Delivery HV and DS.pdf"
+    },
+    {
+      "id": "KB0018390_164d9fc42b69aff2919c7c2e2726f7c3",
+      "text": "0\n0\nSearch\nQ\nMy Requests\nMy Tickets\n\n0\n0\nJC",
+      "length": 43,
+      "source": "Request Application Support_Tutorial.pdf"
+    },
+    {
+      "id": "KB0018391_93051dd0fe1b3d83206dc45385a9686a",
+      "text": "| Catalogs |\n| --- |\n| All \u25b8 |",
+      "length": 30,
+      "source": "Onboarding_Distribution List Guide.pdf"
+    },
+    {
+      "id": "KB0018391_cac054a3c546598e678199a1279fc93b",
+      "text": "0\n0\nSearch\nMy Requests\nMy Tickets\nD\nDO\n\n0\n0\nJC",
+      "length": 46,
+      "source": "Onboarding_Distribution List Guide.pdf"
+    },
+    {
+      "id": "KB0018392_0661b201ccc8b0cb343832194b6c7f60",
+      "text": "Onboarding_Distribution List Guide: PDF attachment",
+      "length": 50,
+      "source": "ServiceNow_KB_KB0018392_How_to_Request_Addition_and_Edits_to_Distribution_Lists.html"
+    },
+    {
+      "id": "KB0018392_0fd128f3684e0cdcd349c9d55fdd9444",
+      "text": "| \u24c7 Santa Clara x |\n| --- |",
+      "length": 27,
+      "source": "Onboarding_How to request a workspace.pdf"
+    },
+    {
+      "id": "KB0018443_4fff9686899ebbc64fe46475335e5aef",
+      "text": "SALESFORCE DATA LOADER",
+      "length": 22,
+      "source": "ServiceNow_KB_KB0018443_SALESFORCE_DATALOADER_GUIDE.html"
+    },
+    {
+      "id": "KB0018568_9424858fa8afbb2197d8c41c8877912a",
+      "text": "7\n11. Effective Date.....\n.8",
+      "length": 28,
+      "source": "Menopause in the Workplace (UK) Hitachi Vantara Policy.pdf"
+    },
+    {
+      "id": "KB0018606_d968b4870b14633de41952af09e92369",
+      "text": "# AskNow Portal Content Governance",
+      "length": 34,
+      "source": "AskNow Portal Content Governance.docx"
+    },
+    {
+      "id": "KB0018757_743ce4c03af8e07c2f9f9c367ce14d38",
+      "text": "Visit the: New Employee Orientation Connect Site.",
+      "length": 49,
+      "source": "ServiceNow_KB_KB0018757_UK_New_Joiner_FAQs.html"
+    },
+    {
+      "id": "KB0018767_62a71ab14f6fdd29a35ea6085ab3fd59",
+      "text": "Visit the: New Employee Orientation Connect Site.",
+      "length": 49,
+      "source": "ServiceNow_KB_KB0018767_Sweden_New_Joiner_FAQs.html"
+    },
+    {
+      "id": "KB0018772_274ee7b8373de5e2831431bd40aad12b",
+      "text": "| CIA\u30c8\u30e9\u30a4\u30a2\u30c9 \u6a5f\u5bc6\u6027 - \u306f\u3044 \u5b8c\u5168\u6027 - \u306f\u3044 \u53ef\u7528\u6027 - \u306f\u3044 |\n| --- |",
+      "length": 47,
+      "source": "Identity & Access Management Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0018772_3d913daf6644873b843d840b15b32215",
+      "text": "| \u5b9f\u65bd\u62c5\u5f53: \u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u7ba1\u7406\u8005 |\n| --- |",
+      "length": 29,
+      "source": "Identity & Access Management Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0018772_43d8942d085a4b38bc6f7284ed61144b",
+      "text": "| \u8981\u4ef6 \u5229\u7528\u5236\u5fa1 \u2022 \u751f\u4f53\u8a8d\u8a3c\u306f\u3001\u552f\u4e00\u306e\u8a8d\u8a3c\u8981\u7d20\u3068\u3057\u3066\u4f7f\u7528\u3057\u3066\u306f\u306a\u308a\u307e\u305b\u3093\u3002 |\n| --- |",
+      "length": 49,
+      "source": "Identity & Access Management Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0018772_723f55e484e39d3c03d87fdf7439ab29",
+      "text": "| 0 2  \u30a2\u30af\u30bb\u30b9\u30ec\u30d3\u30e5\u30fc ..48  . \u30a2\u30af\u30bb\u30b9\u8981\u6c42.. 49 |\n| --- |",
+      "length": 45,
+      "source": "Identity & Access Management Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0018772_896b09de401d49780e5e30f3934bce62",
+      "text": "6\nmale\n**.237.\nrials\"\nTH, EL TH\n\n1 # al\nin",
+      "length": 42,
+      "source": "Identity & Access Management Standard.pdf"
+    },
+    {
+      "id": "KB0018772_d5d8c71b2d8c01e79e9dbf74772c4f01",
+      "text": "| Requirements: |\n| --- |",
+      "length": 25,
+      "source": "Identity & Access Management Standard.pdf"
+    },
+    {
+      "id": "KB0018772_fa01d21a8272edeb067a53fc1f0dc17d",
+      "text": "| \u8981\u4ef6: \u5171\u6709 \u5225\u3005 |\n| --- |",
+      "length": 21,
+      "source": "Identity & Access Management Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0018772_fca9b59eec65855718174896130bdd1c",
+      "text": "| \u30a2\u30ab\u30a6\u30f3\u30c8\u306e\u5ec3\u6b62 |\n| --- |",
+      "length": 20,
+      "source": "Identity & Access Management Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0018772_ff3d41f6169f1e1c7a19fe61258e2ba2",
+      "text": "| \u627f\u8a8d\u3055\u308c\u305fSSO \u30d7\u30ed\u30c8\u30b3\u30eb\u3092\u30b5\u30dd\u30fc\u30c8\u3059\u308b\u3088\u3046\u306b\u66f4\u65b0\u3059\u308b\u5fc5\u8981\u304c\u3042\u308a\u307e\u3059\u3002 |\n| --- |",
+      "length": 48,
+      "source": "Identity & Access Management Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0018778_0274a46fcc5577ca0fde809d6c1cf8c4",
+      "text": "08\nHitachi Vantara\n@\nFale",
+      "length": 25,
+      "source": "Global Cybersecurity Policy.pdf"
+    },
+    {
+      "id": "KB0018778_0628f0598e42f3ebbb630ff271caa7da",
+      "text": "| \u4e16\u754c\u306e\u30b5\u30a4\u30d0\u30fc\u30bb \u30ad\u30e5\u30ea\u30c6\u30a3 \u653f\u7b56 |\n| --- |\n| 2026\u5e744\u6708 |",
+      "length": 41,
+      "source": "Global Cybersecurity Policy_Japanese.pdf"
+    },
+    {
+      "id": "KB0018856_5df8a122e5dc3d7476e0a6256d1a79a5",
+      "text": "37\n\u24b8 Hitachi LLC 2024. All Rights Reserved.",
+      "length": 43,
+      "source": "Onboarding Process in SN - Candidates View.pdf"
+    },
+    {
+      "id": "KB0018856_a9463f91d9686372c8f55ee18c49405e",
+      "text": "25\nHitachi LLC 2024. All Rights Reserved.",
+      "length": 41,
+      "source": "Onboarding Process in SN - Candidates View.pdf"
+    },
+    {
+      "id": "KB0019003_a54ee09881b203d0ccafaa721e02a5ff",
+      "text": "1.1 Purpose, and Expectation\n.3",
+      "length": 31,
+      "source": "Hitachi India Bench Policy_April_2025_TZ.pdf"
+    },
+    {
+      "id": "KB0019030_e6c18e358bf5a79c47611dc1e803548c",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2032 - Chubb Policy Schedule - Hitachi Vantara - Poland.pdf"
+    },
+    {
+      "id": "KB0019036_67370f5e4a5eb08225c98b2f27598497",
+      "text": "| --- |\n| weryfikacj\u0119 ewidencji i potwierdza j\u0105. |",
+      "length": 50,
+      "source": "HV Regulamin Wynagradzania (Terms of Remuneration) - bilingual - SEP2025.pdf"
+    },
+    {
+      "id": "KB0019046_e9538e3f639afddee9f9f08fddfa70e6",
+      "text": "Visit the: New Employee Orientation Connect Site.",
+      "length": 49,
+      "source": "ServiceNow_KB_KB0019046_Ireland_New_Joiner_FAQs.html"
+    },
+    {
+      "id": "KB0019058_664bf048ffe799c542bdac0bc1372112",
+      "text": "Pension Cash Allowance\nPolicy\nApril 2023",
+      "length": 40,
+      "source": "The Hitachi Vantara Pension Cash Allowance Policy.pdf"
+    },
+    {
+      "id": "KB0019175_4a6e76d7bd891ca036939fcd6cb172f4",
+      "text": "Visit the: New Employee Orientation Connect Site.",
+      "length": 49,
+      "source": "ServiceNow_KB_KB0019175_Norway_New_Joiner_FAQs.html"
+    },
+    {
+      "id": "KB0019176_14d8ca6327c433491ed8180bd41351b0",
+      "text": "Visit the: New Employee Orientation Connect Site.",
+      "length": 49,
+      "source": "ServiceNow_KB_KB0019176_Finland_New_Joiner_FAQs.html"
+    },
+    {
+      "id": "KB0019205_311e8836c7d75b03a410a65217de7c6c",
+      "text": "| III  III |\n| --- |",
+      "length": 20,
+      "source": "Mentoring Reference Guide - HRBP.pdf"
+    },
+    {
+      "id": "KB0019205_62bfe6c82ffa441ec7d91f598c1de17c",
+      "text": "| Mentor |\n| --- |\n| Mentor Type * |",
+      "length": 36,
+      "source": "Mentoring Reference Guide - Mentee.pdf"
+    },
+    {
+      "id": "KB0019205_92e326c72e552520167d8541f16d2f43",
+      "text": "| EE |\n| --- |\n| EE III |",
+      "length": 25,
+      "source": "Mentoring Reference Guide - Mentor.pdf"
+    },
+    {
+      "id": "KB0019208_2400c8a6bb064edf2d0853a19bfd3e9e",
+      "text": "Regional HR Resources | Germany",
+      "length": 31,
+      "source": "ServiceNow_KB_KB0019208_Datenschutz_BVs_Data_Protection_BVs.html"
+    },
+    {
+      "id": "KB0019208_8dba76ff630d8bf6bdd36b312d337727",
+      "text": "4.1\nDiese BV tritt mit Unterzeichnung in Kraft.",
+      "length": 47,
+      "source": "BV Nummer 6.2 - Microsoft Teams.pdf"
+    },
+    {
+      "id": "KB0019208_d6c8e24d3d44a49923d68813c537a298",
+      "text": "| \u00a9 % 6\u00b0 1 201  Feperfund \u24b8 X |\n| --- |",
+      "length": 39,
+      "source": "BV 47 Absolute Resilience signed 14022022.pdf"
+    },
+    {
+      "id": "KB0019220_4bc53a33d580b74f74f2f5add5656143",
+      "text": "11\nRechte des Betriebsrats",
+      "length": 26,
+      "source": "BV 34.1 Datenschutz -Einf\u00fchrung Software.pdf"
+    },
+    {
+      "id": "KB0019220_8e45bee9e60a69c3a89eb497b2939af9",
+      "text": "| [To be completed by Legal/DPO] |\n| --- |",
+      "length": 42,
+      "source": "Anlage BV 34.1 Meldevorlage-Datasheet_final .pdf"
+    },
+    {
+      "id": "KB0019253_0c397e125ccaa3750dff6421ddd27436",
+      "text": "| \u306f\u3001 | \u65e5\u7acb\u30f4 |\n| --- | --- |",
+      "length": 26,
+      "source": "PSVulnerabilityManagementStandard_ Japanese.pdf"
+    },
+    {
+      "id": "KB0019253_d82eef191a828ac21eb8b0b3f4a47b04",
+      "text": "Product Security Vulnerability Management Standard",
+      "length": 50,
+      "source": "PSVulnerabilityManagementStandard.pdf"
+    },
+    {
+      "id": "KB0019257_adf7e97e1b49089125ecf2b57fd34134",
+      "text": "15\n4-5\n\n18\n00\n6-9\n\n21\n10-14\n\n23\n22\n\n15 & above",
+      "length": 46,
+      "source": "Leave Program - Indonesia.pdf"
+    },
+    {
+      "id": "KB0019264_8c085f83e980ed74a6d439e1bbe5ef05",
+      "text": "18\n\u0438\n\u043d\u043e\u0432\u043e\u0435\n\u043c\u0435\u0441\u0442\u043e\n\u0436\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430",
+      "length": 27,
+      "source": "Russia Internal Regulations.pdf"
+    },
+    {
+      "id": "KB0019264_e4598612f896494936343a9592747681",
+      "text": "5\n-\n-\n\u0421\u041e\u041e\u0422\u0412\u0415\u0422\u0421\u0422\u0412\u0418\u0418 \u0421\n-\n-\n-\n\u0438\n\u0442\u043e\u0447\u043d\u043e\n\u0418\u0421\u041f\u041e\u041b\u041d\u042f\u0422\u042c\n\u0438",
+      "length": 46,
+      "source": "Russia Internal Regulations.pdf"
+    },
+    {
+      "id": "KB0019264_f47c1812a8eec5d16409a44f351daae0",
+      "text": "23\n25\n\n\u0438\u043c\n\u041b\u0418\u0426\na\n\u0442\u0430\u043a\u0436\u0435",
+      "length": 21,
+      "source": "Russia Internal Regulations.pdf"
+    },
+    {
+      "id": "KB0019264_f6208222de3950ca871f77aaf07ea976",
+      "text": "25\n\u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0435\nCO\n\u0436\u0438\u0437\u043d\u0438\n\u0438\n-\n\u0438\n\u0418\u041b\u0418\n\u0438\n\u0438\n\u0418\u041d\u042b\u041c\n-\n-",
+      "length": 44,
+      "source": "Russia Internal Regulations.pdf"
+    },
+    {
+      "id": "KB0019267_0160812ce3aa5e899f5612046b8b3996",
+      "text": "| Claim Update News |\n| --- |\n| O:  No news |",
+      "length": 45,
+      "source": "2025-26_Hitachi Vantara-Insurance-Communication.pdf"
+    },
+    {
+      "id": "KB0019267_383a04cf8733f27d81d1984f6e873c92",
+      "text": "1\ninternationalsos.com",
+      "length": 22,
+      "source": "International SOS FAQ_eng_.pdf"
+    },
+    {
+      "id": "KB0019267_452f8a3a63ef0576cd61164efb330563",
+      "text": "2\ninternationalsos.com",
+      "length": 22,
+      "source": "International SOS FAQ_eng_.pdf"
+    },
+    {
+      "id": "KB0019267_52733539729afd7956f196184a9ce78e",
+      "text": "4\ninternationalsos.com",
+      "length": 22,
+      "source": "International SOS FAQ_eng_.pdf"
+    },
+    {
+      "id": "KB0019267_6d8cee0eb848012d10b6839cfd1f268e",
+      "text": "| NO YES  NO YES |\n| --- |",
+      "length": 26,
+      "source": "2025-26_Hitachi Vantara-Insurance-Communication.pdf"
+    },
+    {
+      "id": "KB0019267_6f1adbbe556c5c2e9db0caa3439f4993",
+      "text": "1\nCENTRAL\nTOOFDOCTOR DENTAL SURGEONS (SUNTEC)",
+      "length": 45,
+      "source": "3. Aon Care Dental Listing FY23.pdf"
+    },
+    {
+      "id": "KB0019267_a36ce0333f69950f9d2cbd3afd6b643c",
+      "text": "311 NEW UPPER CHANGI ROAD BEDOK MALL #01-45/46",
+      "length": 46,
+      "source": "4. Aon Care TCM Listing FY23.pdf"
+    },
+    {
+      "id": "KB0019267_c88465a17705ef8b2ab0f4ac20fa3aa0",
+      "text": "3\ninternationalsos.com",
+      "length": 22,
+      "source": "International SOS FAQ_eng_.pdf"
+    },
+    {
+      "id": "KB0019267_d01c1e626b89b10ff348ace5057dc4fd",
+      "text": "| Singapore Approval 3 |\n| --- |",
+      "length": 32,
+      "source": "Ceridian Peoplepay - Self Service Leave Application (Apr 2023).pdf"
+    },
+    {
+      "id": "KB0019267_e13b88b44088fbe7fba2e387778b6820",
+      "text": "23\nEmployee Assistance Program\n15+",
+      "length": 34,
+      "source": "Benefits-Snapshot.pdf"
+    },
+    {
+      "id": "KB0019272_07cf3e2e2cc4a6379db43a59ba51cc05",
+      "text": "| Aon Insurance broker |\n| --- |\n| PTI Insurer |",
+      "length": 48,
+      "source": "2022.04.Hitachi Vantara-Insurance summary.pdf"
+    },
+    {
+      "id": "KB0019272_1cf22f618eb4af7cbc4822bac75f0df4",
+      "text": "| Aon Insurance broker |\n| --- |\n| PTI Insurer |",
+      "length": 48,
+      "source": "2022.04.Hitachi Vantara-Insurance summary.pdf"
+    },
+    {
+      "id": "KB0019272_2b3bc38e49b1e7b5bc8830b5b4d1758f",
+      "text": "| Sum Insured |\n| --- |\n| VND 14,000,000 |",
+      "length": 42,
+      "source": "2022.04.Hitachi Vantara-Insurance summary.pdf"
+    },
+    {
+      "id": "KB0019272_a659dc9e420a1f28bea653a04cc1c244",
+      "text": "| KHON \u03c3\u03c5\u03bd\u03c4\u03b7\u03c1\u03b7\u03c2 \u039d |\n| --- |",
+      "length": 27,
+      "source": "2022.04.Hitachi Vantara-Insurance summary.pdf"
+    },
+    {
+      "id": "KB0019272_b033b9322bafc14b4c78682943fe49c3",
+      "text": "| Aon Insurance broker |\n| --- |\n| PTI Insurer |",
+      "length": 48,
+      "source": "2022.04.Hitachi Vantara-Insurance summary.pdf"
+    },
+    {
+      "id": "KB0019272_c5d71e4283db04445fc1e62eb0648499",
+      "text": "| KHON \u03c3\u03c5\u03bd\u03c4\u03b7\u03c1\u03b7\u03c2 \u039d |\n| --- |",
+      "length": 27,
+      "source": "2022.04.Hitachi Vantara-Insurance summary.pdf"
+    },
+    {
+      "id": "KB0019272_e414400949aeded50b28ec9f1297dcfd",
+      "text": "| Sum Insured |\n| --- |\n| VND 10,500,000 |",
+      "length": 42,
+      "source": "2022.04.Hitachi Vantara-Insurance summary.pdf"
+    },
+    {
+      "id": "KB0019272_e569d081d94446e760038c8607b6cd00",
+      "text": "| Aon Insurance broker |\n| --- |\n| PTI Insurer |",
+      "length": 48,
+      "source": "2022.04.Hitachi Vantara-Insurance summary.pdf"
+    },
+    {
+      "id": "KB0019273_14796748faab169637f8651d3ca51ff7",
+      "text": "| \u65b0\u51a0\u611f\u67d3 \u6025\u6027\u9f3b\u54bd\u708e  \u4e0a\u547c\u5438\u9053\u611f\u67d3 \u8170\u9888\u75bc\u75db |\n| --- |",
+      "length": 35,
+      "source": "\u674f\u6811\u6797\u5bb6\u5ead\u533b\u751f.pdf"
+    },
+    {
+      "id": "KB0019273_cf3009c816d7aa0e72fb82d4b565a13c",
+      "text": "| wall \u4e2d\u56fd\u79fb\u52a8\u4ee4 16:10 60% 4 |\n| --- |\n| < \u674f\u6811\u6797\u79c1\u4eba\u533b\u751f & |",
+      "length": 50,
+      "source": "\u674f\u6811\u6797\u5bb6\u5ead\u533b\u751f.pdf"
+    },
+    {
+      "id": "KB0019273_d3770b3ce7d073076c91b791eee43560",
+      "text": "| \u8bf7\u8f93\u5165\u59d3\u540d |\n| --- |\n| \u8bf7\u8f93\u5165\u624b\u673a\u53f7 |\n| \u8bf7\u8f93\u5165\u9a8c\u8bc1\u7801 \u53d1\u9001\u9a8c\u8bc1\u7801 |",
+      "length": 45,
+      "source": "\u674f\u6811\u6797\u5bb6\u5ead\u533b\u751f.pdf"
+    },
+    {
+      "id": "KB0019274_2ec4af77e59e45bc821f5b5bad403b95",
+      "text": "16\nWA\nFARM LAFORKID\nF310",
+      "length": 24,
+      "source": "Ceridian Peoplepay - Self Service first time login and Payroll .pdf"
+    },
+    {
+      "id": "KB0019274_360a1ed7c1ba668ac3afcf0fb2e16ee1",
+      "text": "| Name: Age: NRIC No./ Passport No : |\n| --- |",
+      "length": 46,
+      "source": "GPA Claim Form 2024.pdf"
+    },
+    {
+      "id": "KB0019274_aff893764be340be8a54863fca4d7dc6",
+      "text": "| DD MM YYYY DD MM YYYY A.M./P.M. |\n| --- |",
+      "length": 43,
+      "source": "GPA Claim Form 2024.pdf"
+    },
+    {
+      "id": "KB0019275_296c65021439483d380a6f90fb278ff4",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2039 - Chubb Policy Schedule - Hitachi Vantara - United Kingdom.pdf"
+    },
+    {
+      "id": "KB0019275_2e7480237cc2bb576e278966f18d1edc",
+      "text": "Pension Cash Allowance\nPolicy\nApril 2025",
+      "length": 40,
+      "source": "The Hitachi Vantara Pension Cash Allowance Policy - April 2025.pdf"
+    },
+    {
+      "id": "KB0019275_30beaf0a267a5bf8386340d5aea02ee2",
+      "text": "| \u24b8 Bupa 2024 JUN24 BINS 00830 |\n| --- |",
+      "length": 40,
+      "source": "Bupa Policy Summary 2024.pdf"
+    },
+    {
+      "id": "KB0019275_664bf048ffe799c542bdac0bc1372112",
+      "text": "Pension Cash Allowance\nPolicy\nApril 2023",
+      "length": 40,
+      "source": "The Hitachi Vantara Pension Cash Allowance Policy.pdf"
+    },
+    {
+      "id": "KB0019275_c73a9c15f58263a9ecd2e033fd53ab46",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2024 - Policy Schedule - Hitachi Digital Services.pdf"
+    },
+    {
+      "id": "KB0019283_08a5710c54ab4fc8e6ff0c9c67008c8e",
+      "text": "| \"AIA+\u201d User Guide \u0393 AIA+ |\n| --- |",
+      "length": 36,
+      "source": "Hitachi Hong Kong Group Insurance 2025.pdf"
+    },
+    {
+      "id": "KB0019283_0f845a6e4753d5b4733e8707c421db63",
+      "text": "| \u7d22\u511f\u72c0\u614b  \u610f\u5916/\u75be\u75c5\u65e5\u671f | \u5be9\u6838\u4e2d  2023\u5e7408\u670801\u65e5 |\n| --- | --- |",
+      "length": 50,
+      "source": "Hitachi Hong Kong Group Insurance 2025.pdf"
+    },
+    {
+      "id": "KB0019283_5e3d8da9eb00374d1fa357ba921a0599",
+      "text": "| 100% \u5168\u6578\u652f\u4ed8 100% \u5168\u6578\u652f\u4ed8 |\n| --- |",
+      "length": 31,
+      "source": "Hitachi Hong Kong Group Insurance 2025.pdf"
+    },
+    {
+      "id": "KB0019283_7aaeea3d57b266fd980f4d44416cdbd0",
+      "text": "7\n[AIA - CONFIDENTIAL]",
+      "length": 22,
+      "source": "Hitachi Hong Kong Group Insurance 2025.pdf"
+    },
+    {
+      "id": "KB0019283_9e08f041727824d55c04e6d38702e84e",
+      "text": "AIA+\nMember Enrolment Guidelines \u6210\u54e1\u6295\u4fdd\u6307\u5f15",
+      "length": 39,
+      "source": "Hitachi Hong Kong Group Insurance 2025.pdf"
+    },
+    {
+      "id": "KB0019283_ab0e9c2645ca963474b85963f7e1f570",
+      "text": "| \u7d22\u511f\u72c0\u614b  \u610f\u5916/\u75be\u75c5\u65e5\u671f | \u5be9\u6838\u4e2d  2023\u5e7408\u670801\u65e5 |\n| --- | --- |",
+      "length": 50,
+      "source": "Hitachi Hong Kong Group Insurance 2025.pdf"
+    },
+    {
+      "id": "KB0019284_5ad7602830a0f9b6b80e257b537b8865",
+      "text": "| \uc218\uc775\uc790 (\uccad\uad6c\uc790) \uc131\uba85 \uc11c\uba85(\uc778) |\n| --- |",
+      "length": 30,
+      "source": "2021 HV-Medical-insurance-claim-form_\uad50\ubcf4\uc0dd\uba85_\ub2e8\uccb4\ubcf4\ud5d8\uccad\uad6c\uc11c_20210601\uac1c\uc815\uc591\uc2dd.pdf"
+    },
+    {
+      "id": "KB0019284_6b10cf9e86888f5e2d1cd9f6b28993ec",
+      "text": "| 2 | 3 |\n| --- | --- |\n| \u2190 |  |",
+      "length": 32,
+      "source": "2025 Hitachi Vantara Korea_\ub2e8\uccb4\uc0c1\ud574\ubcf4\ud5d8 \uc548\ub0b4\uc11c.pdf"
+    },
+    {
+      "id": "KB0019284_7e672f6e4cd4713a1b9314d973d5784a",
+      "text": "| 2 \ud68c |\n| --- |\n| 4 |",
+      "length": 21,
+      "source": "2025 Hitachi Vantara Korea_\ub2e8\uccb4\uc0c1\ud574\ubcf4\ud5d8 \uc548\ub0b4\uc11c.pdf"
+    },
+    {
+      "id": "KB0019284_9b526feb9f5d5e90bd51f697cf085338",
+      "text": "| +  x=  ||= |\n| --- |",
+      "length": 22,
+      "source": "2025 Hitachi Vantara Korea_\ub2e8\uccb4\uc0c1\ud574\ubcf4\ud5d8 \uc548\ub0b4\uc11c.pdf"
+    },
+    {
+      "id": "KB0019284_d8c29b5410c1825912e55d1e182e7caf",
+      "text": "| \uc784\uc9c1\uc6d0 \uc11c\uba85 3 \uc11c\uba85\ucd08\uae30\ud654 |\n| --- |\n| \ub2e4\uc74c |",
+      "length": 33,
+      "source": "2025 Hitachi Vantara Korea_\ub2e8\uccb4\uc0c1\ud574\ubcf4\ud5d8 \uc548\ub0b4\uc11c.pdf"
+    },
+    {
+      "id": "KB0019284_f664ae0385b74b29790cd1670b2f1619",
+      "text": "1\n2023\ub144 \ub2e8\uccb4\uc0c1\ud574\ubcf4\ud5d8 \uc548\ub0b4\n1-1. \uc815\uc561\ud615 \ubcf4\uc7a5\n1-2. \uc2e4\uc190\ud615 \ubcf4\uc7a5(\uc0c1\ud574)\nAON",
+      "length": 49,
+      "source": "2023 HV Insurance Korea_\uc9c1\uc6d0 \ub2e8\uccb4\uc0c1\ud574\ubcf4\ud5d8 \uc548\ub0b4\uc11c.pdf"
+    },
+    {
+      "id": "KB0019284_f8cd712ce14a4d5f5068e738f0a0e6d2",
+      "text": "| I \ubcf4\ud5d8\uae08\uccad\uad6c |\n| --- |\n| P \uae30\ud0c0\uc11c\ub958\uc81c\ucd9c |\n| 2 \ubb38\uc758\ud558\uae30 |",
+      "length": 43,
+      "source": "2025 Hitachi Vantara Korea_\ub2e8\uccb4\uc0c1\ud574\ubcf4\ud5d8 \uc548\ub0b4\uc11c.pdf"
+    },
+    {
+      "id": "KB0019285_898cf544e1a28315e7574e76e8de4ab9",
+      "text": "5\nLegal Copy Helvetica Regular 8/9.6 Black",
+      "length": 42,
+      "source": "2025 Group insurance-Hitachi Vantara.pdf"
+    },
+    {
+      "id": "KB0019285_a09a926d2e01546436da260fabef95d8",
+      "text": "5\nLegal Copy Helvetica Regular 8/9.6 Black",
+      "length": 42,
+      "source": "AIA Group Insurance and Supplement Healthcare-Taiwan.pdf"
+    },
+    {
+      "id": "KB0019286_d4a10833f97df960e24521b2264d9791",
+      "text": "| Karcis #p. 4,000 |\n| --- |\n| Pariks Rp. &,000 |",
+      "length": 49,
+      "source": "Hitachi Indonesia Group Insurance 2025.pdf"
+    },
+    {
+      "id": "KB0019290_54d7a558862933b0fc07805a16841f2c",
+      "text": "1 Roles and Responsibilities",
+      "length": 28,
+      "source": "ANZ Work Health and Safety Policy 1 Jan 18 v 2.0_FINAL.pdf"
+    },
+    {
+      "id": "KB0019290_6c6593cad09be84b5fbc51a319004636",
+      "text": "| Date: |\n| --- |\n| Date: |\n| Date: |\n| Date: |",
+      "length": 47,
+      "source": "ANZ Work Health and Safety Policy 1 Jan 18 v 2.0_FINAL.pdf"
+    },
+    {
+      "id": "KB0019290_debc1481f7a644cd9c616dde557d1a69",
+      "text": "| Author | Human Resources |",
+      "length": 28,
+      "source": "ANZ Health & Safety Guide v2.0.pdf"
+    },
+    {
+      "id": "KB0019291_cb9140acb196c79557aed3657d87f5c5",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2024 - Chubb Policy Schedule - Hitachi Vantara - Austria.pdf"
+    },
+    {
+      "id": "KB0019291_ef52ebfa41c1a8d8d5e389b23e678103",
+      "text": "| \u0441\u0430. 3  \u20ac \u20ac  ca. 2  ca. \u20ac 2.080 |\n| --- |",
+      "length": 42,
+      "source": "ACEE_Praesentation Pensionsplan_german1.pdf"
+    },
+    {
+      "id": "KB0019307_0652329077f2af6cae4433e51541831d",
+      "text": "| \u30e6\u30fc\u30b6\u30fc\u8a8d\u8a3c\u8981\u4ef6 |\n| --- |",
+      "length": 20,
+      "source": "Network Security Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0019307_42a0e77c1ef7335f744ab7367cddd70b",
+      "text": "6.7\nDocuments:\nHITCO2\nB272-20\nPage 16",
+      "length": 37,
+      "source": "Network Security Standard.pdf"
+    },
+    {
+      "id": "KB0019308_dc806cb1a314300ca6bced2cf50d1c22",
+      "text": "9\nMe\n\u3053\u308c\u306b\u306f\u3001HV\u304c\u6240\u6709\u3001\u904b\u7528\u3001\u307e\u305f\u306f\u7ba1\u7406\u3059\u308b\u3059",
+      "length": 27,
+      "source": "Infrastructure Security Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0019353_c134e00e955d60bbdb17c381f6b185d8",
+      "text": "Visit the: New Employee Orientation Connect Site.",
+      "length": 49,
+      "source": "ServiceNow_KB_KB0019353_Finland_New_Joiner_FAQs.html"
+    },
+    {
+      "id": "KB0019354_c4fab07e3c54ab2b876e14665c0607b4",
+      "text": "Visit the: New Employee Orientation Connect Site.",
+      "length": 49,
+      "source": "ServiceNow_KB_KB0019354_Norway_New_Joiner_FAQs.html"
+    },
+    {
+      "id": "KB0019372_1d122a9d212d42b487f99e8c2ffffbd8",
+      "text": "| \u0441\u0430. 3  \u20ac \u20ac  ca. 2  ca. \u20ac 2.080 |\n| --- |",
+      "length": 42,
+      "source": "ACEE_Praesentation Pensionsplan_german.pdf"
+    },
+    {
+      "id": "KB0019372_6db40c2aafc0ebc238bba0ba3fbf89ca",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2025 - Chubb Policy Schedule - Hitachi Vantara - Czech.pdf"
+    },
+    {
+      "id": "KB0019373_52e4bb382a05c734fefd30a551c71c1b",
+      "text": "| %. %. 3.0 3.0 2.5 2.5 2.0 2.0 1.5 1.5 |\n| --- |",
+      "length": 49,
+      "source": "Denmark Pension Plan.pdf"
+    },
+    {
+      "id": "KB0019374_6e7134a757405cce640dfc878b1564b7",
+      "text": "7\nKorvaukset\n7.2.2 Korvattavat hoitokulut",
+      "length": 41,
+      "source": "Finland International Travel Insurance Details.pdf"
+    },
+    {
+      "id": "KB0019374_c676448702fffa34e27e98f67301c183",
+      "text": "400 EUR annually\n\u2022\n\u2022",
+      "length": 20,
+      "source": "HDS Finland Employee Handbook - Pension.pdf"
+    },
+    {
+      "id": "KB0019374_e4777ebac297f369dbf52dfb33d351a8",
+      "text": "7.5\nMatkan keskeytyminen",
+      "length": 24,
+      "source": "Finland International Travel Insurance Details.pdf"
+    },
+    {
+      "id": "KB0019375_96ab28af2991610d0001f92d8fe134db",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2038 - Chubb Policy Schedule - Hitachi Vantara - France.pdf"
+    },
+    {
+      "id": "KB0019376_1388fa03d7b7e38fce0bbd2a92a89b7b",
+      "text": "| \u0441\u0430. 3  \u20ac \u20ac  ca. 2  ca. \u20ac 2.080 |\n| --- |",
+      "length": 42,
+      "source": "ACEE_Praesentation Pensionsplan_german-hungary.pdf"
+    },
+    {
+      "id": "KB0019376_b1b9f5b9df6954f4c8ef5ddaa8c2945a",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2026 - Chubb Policy Schedule - Hitachi Vantara - Hungary.pdf"
+    },
+    {
+      "id": "KB0019377_3e9314ca50cca73372160bdee7588c47",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2029 - Chubb Policy Schedule-HV-Denmark.pdf"
+    },
+    {
+      "id": "KB0019377_9f2bb2c34ed6a08eabb9c4d7353677f4",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2030 - Chubb Policy Schedule - HV - Ireland.pdf"
+    },
+    {
+      "id": "KB0019378_9aaf6bafb99b256c0963c05953c8c2dd",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2031 - Chubb Policy Schedule - Hitachi Vantara - Italy.pdf"
+    },
+    {
+      "id": "KB0019379_9f2bb2c34ed6a08eabb9c4d7353677f4",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2030 - Chubb Policy Schedule - HV - Ireland.pdf"
+    },
+    {
+      "id": "KB0019381_0e2a7480014bdd4433470440f370fea1",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2024 - Policy Schedule - Hitachi Digital Services (Portugal).pdf"
+    },
+    {
+      "id": "KB0019381_9d83c09c1daddead377d1aa9a369ab87",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2033 - Chubb Policy Schedule - HV - Portugal.pdf"
+    },
+    {
+      "id": "KB0019382_111a21d757523a425da43b6188aa7a05",
+      "text": "25\n\u0441\u0432\u044f\u0437\u0430\u043d\u043d\u044b\u0435\nCO\n\u0436\u0438\u0437\u043d\u0438\n\u0438\n-\n\u0438\n\u0418\u041b\u0418\n\u0438\n\u0438\n\u0418\u041d\u042b\u041c\n-\n-",
+      "length": 44,
+      "source": "Internal Regulations 21.03.2019.pdf"
+    },
+    {
+      "id": "KB0019382_60bc417ebc5af7ed2ba9cd7e23a086a8",
+      "text": "23\n25\n\n\u0438\u043c\n\u041b\u0418\u0426\na\n\u0442\u0430\u043a\u0436\u0435",
+      "length": 21,
+      "source": "Internal Regulations 21.03.2019.pdf"
+    },
+    {
+      "id": "KB0019382_7fb8d6e812841885895642abaa5c7678",
+      "text": "18\n\u0438\n\u043d\u043e\u0432\u043e\u0435\n\u043c\u0435\u0441\u0442\u043e\n\u0436\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430",
+      "length": 27,
+      "source": "Internal Regulations 21.03.2019.pdf"
+    },
+    {
+      "id": "KB0019382_b7e534616f6c9422412119d1efeacbe5",
+      "text": "5\n-\n-\n\u0421\u041e\u041e\u0422\u0412\u0415\u0422\u0421\u0422\u0412\u0418\u0418 \u0421\n-\n-\n-\n\u0438\n\u0442\u043e\u0447\u043d\u043e\n\u0418\u0421\u041f\u041e\u041b\u041d\u042f\u0422\u042c\n\u0438",
+      "length": 46,
+      "source": "Internal Regulations 21.03.2019.pdf"
+    },
+    {
+      "id": "KB0019383_9f4763c1e56b5380743c38da7e53f124",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2028 - Chubb Policy Schedule - Hitachi Vantara - Slovakia.pdf"
+    },
+    {
+      "id": "KB0019383_b012e637278bd5037d5f866714ee7caf",
+      "text": "| \u0441\u0430. 3  \u20ac \u20ac  ca. 2  ca. \u20ac 2.080 |\n| --- |",
+      "length": 42,
+      "source": "ACEE_Praesentation Pensionsplan (DE)-Slovakia.pdf"
+    },
+    {
+      "id": "KB0019384_d77abafbf8b2d93597fc62386c974d5c",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2027 - Chubb Policy Schedule - Hitachi Vantara - Slovenia.pdf"
+    },
+    {
+      "id": "KB0019385_4288f2781660ca356e0f96499393bffb",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2024 - Policy Schedule - Hitachi Digital Services (Spain).pdf"
+    },
+    {
+      "id": "KB0019385_62a89c2264303686da6598df3a99a129",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2036 - Chubb Policy Schedule - Hitachi Vantara - Spain.pdf"
+    },
+    {
+      "id": "KB0019386_4a372237506b03a9d8c5a969b79a6d06",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2037 - Chubb Policy Schedule - Hitachi Vantara - Sweden.pdf"
+    },
+    {
+      "id": "KB0019388_9ff37f408f59fe940f62e8e618531631",
+      "text": "| Cover Liability Limits |\n| --- |",
+      "length": 34,
+      "source": "Israel International Travel Insurance.pdf"
+    },
+    {
+      "id": "KB0019389_4bd920657c330605c10a478a762392d2",
+      "text": "3\nExclusions\n\n4\nDefinitions",
+      "length": 27,
+      "source": "Vision-Extra-Plan_2025 Hitachi Vantara KSA IPMI VISION EXTRA UK.pdf"
+    },
+    {
+      "id": "KB0019389_52f79acf4e500083faebd6660d90e6fd",
+      "text": "| EliteCare  Paid in Full |\n| --- |",
+      "length": 35,
+      "source": "EliteCare-Health-Benefits_2025 Hitachi Vantara KSA IPMI ELITECARE UK.pdf"
+    },
+    {
+      "id": "KB0019389_5ab24bdd5657366720d618d4b9af76bb",
+      "text": "| EliteCare  Paid in Full |\n| --- |",
+      "length": 35,
+      "source": "EliteCare-Health-Benefits_2025 Hitachi Vantara KSA IPMI ELITECARE UK.pdf"
+    },
+    {
+      "id": "KB0019389_d5973e51cb9180e1fdc8adb8d3707ab4",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2034 - Chubb Policy Schedule - Hitachi Vantara - Saudi Arabia.pdf"
+    },
+    {
+      "id": "KB0019391_8f33bcbc59d54b11407ff950007e6841",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2034 - Chubb Policy Schedule - HV - Saudi Arabia.pdf"
+    },
+    {
+      "id": "KB0019393_178a582938c29703600d5bc6c1dd89ed",
+      "text": "| PRE-EXISTING MEDICAL CONDITION |\n| --- |",
+      "length": 42,
+      "source": "2025-Corporate Gap Cover Client Application Form.pdf"
+    },
+    {
+      "id": "KB0019393_4448b77938e42538838a74d2c7ffec9e",
+      "text": "| Code  Code  Lead number |\n| --- |",
+      "length": 35,
+      "source": "2025-Applying to Join the DHMS as Part of an Employer Group.pdf"
+    },
+    {
+      "id": "KB0019393_53d4d9a78862d96b5cc02ea440a13d69",
+      "text": "| Practice number |\n| --- |",
+      "length": 27,
+      "source": "2025-Applying to Become a Member of Discovery Health Medical Scheme.pdf"
+    },
+    {
+      "id": "KB0019393_5c9cf2a36e437962ea5e047c649bb6b4",
+      "text": "| Signature of main applicant |\n| --- |",
+      "length": 39,
+      "source": "2025-Applying to Join DHMS When Moving from Another Medical Scheme.pdf"
+    },
+    {
+      "id": "KB0019393_65df7b59415ed83470494f58b6f8a810",
+      "text": "| Code  Code  number |\n| --- |",
+      "length": 30,
+      "source": "2025-Applying to Become a Member of Discovery Health Medical Scheme.pdf"
+    },
+    {
+      "id": "KB0019393_692b350d844fb464d7ec8db55b7ba447",
+      "text": "Authorised signatory\nName\nDesignation",
+      "length": 37,
+      "source": "2025-Applying to Join DHMS When Moving from Another Medical Scheme.pdf"
+    },
+    {
+      "id": "KB0019393_7ce67c91bb75d19c6764736aba364ad0",
+      "text": "| VAT number  Fax |\n| --- |",
+      "length": 27,
+      "source": "2025-Applying to Become a Member of Discovery Health Medical Scheme.pdf"
+    },
+    {
+      "id": "KB0019393_8a2256f8101474b5b754116649c5fc19",
+      "text": "| R .  R . |\n| --- |",
+      "length": 20,
+      "source": "2025-Applying to Join DHMS When Moving from Another Medical Scheme.pdf"
+    },
+    {
+      "id": "KB0019393_90b47b8c745b69aa28febc5b403069b6",
+      "text": "| Guardrisk Insurance Company Limited |\n| --- |",
+      "length": 47,
+      "source": "2025-Corporate Gap Cover Client Application Form.pdf"
+    },
+    {
+      "id": "KB0019393_bef5a66ba5f3fd49fdac759660b74408",
+      "text": "01 June 2024 LST\nPeriod to",
+      "length": 26,
+      "source": "2035 - Chubb Policy Schedule - Hitachi Vantara - South Africa.pdf"
+    },
+    {
+      "id": "KB0019393_c4931323d7ce62c7a78342976bb04162",
+      "text": "| Signature of main applicant |\n| --- |",
+      "length": 39,
+      "source": "2025-Applying to Join the DHMS as Part of an Employer Group.pdf"
+    },
+    {
+      "id": "KB0019393_ded886bbfa9c546f8f5234538afa47c4",
+      "text": "| Registration number  Telephone |\n| --- |",
+      "length": 42,
+      "source": "2025-Applying to Become a Member of Discovery Health Medical Scheme.pdf"
+    },
+    {
+      "id": "KB0019401_60e10a4bc501d0657d94f2968c972af0",
+      "text": "1 Roles and Responsibilities",
+      "length": 28,
+      "source": "ANZ Work Health and Safety Policy-1Jan18v2.0.pdf"
+    },
+    {
+      "id": "KB0019401_6a39dab4912fd9ab66c447eba5a8f451",
+      "text": "| Date: |\n| --- |\n| Date: |\n| Date: |\n| Date: |",
+      "length": 47,
+      "source": "ANZ Work Health and Safety Policy-1Jan18v2.0.pdf"
+    },
+    {
+      "id": "KB0019415_560425272217b683f18125d0f50bc598",
+      "text": "| CYT BARVY A caraNAN crvenanga |\n| --- |",
+      "length": 41,
+      "source": "Brandschutzordnung _Dreieich_Teil_A+B.pdf"
+    },
+    {
+      "id": "KB0019421_1c55cc43cb4feb24b4e3d9923b697b5f",
+      "text": "| --- |\n| Auszug aus dem Brandschutzkonzept: |",
+      "length": 46,
+      "source": "20230901 BSO Konrad Anhang, Gegenbauer (F005).pdf"
+    },
+    {
+      "id": "KB0019421_dda7a07effe565962b76fecf64439ad2",
+      "text": "Brandschutzordnung DIN 14096 Teil B",
+      "length": 35,
+      "source": "Brandschutzordnung _M\u00fcnchen_Teil_A+B.pdf"
+    },
+    {
+      "id": "KB0019423_062b74346a470bcd3074fdff0e402411",
+      "text": "900\nDas Versorgungswerk der",
+      "length": 27,
+      "source": "Fa. Hitachi Vantara - Ma.-Pr\u00e4sentation_02.02.2022_.pdf"
+    },
+    {
+      "id": "KB0019423_4762782ba6643924eadea6da3f72e3c6",
+      "text": "| 675,61 EUR 637,62 EUR  1.016,30 EUR |\n| --- |",
+      "length": 47,
+      "source": "Fa. Hitachi Vantara - Ma.-Pr\u00e4sentation_02.02.2022_.pdf"
+    },
+    {
+      "id": "KB0019424_681881db7354b186fcd54334b354b912",
+      "text": "| im Brustkorb? Ja 10 O |\n| --- |\n| Nein 0 |",
+      "length": 44,
+      "source": "Gesundheits-Check Herzinfarkt-Risiko.pdf"
+    },
+    {
+      "id": "KB0019424_73b15c36a40bdebaf39f49e153182b96",
+      "text": "68\nKegeln\n\n75\nSitzen",
+      "length": 20,
+      "source": "Leichter leben, ges\u00fcnder essen - GEWUSST WIE.pdf"
+    },
+    {
+      "id": "KB0019460_42a2964470a0507139be44ac45dc566a",
+      "text": "19\n9.\nExhibit A- Glossary.......\n.20\nPage 3",
+      "length": 43,
+      "source": "Monitoring, Response and Forensic Standard.pdf"
+    },
+    {
+      "id": "KB0019460_551a3350d8620aa3d6c140c85c3188fe",
+      "text": "| \u76e3\u8996\u3001\u5bfe\u5fdc\u3001 | \u304a\u3088\u3073 |\n| --- | --- |\n| \u30d5\u30a9\u30ec\u30f3\u30b8\u30c3\u30af | \u57fa\u6e96 |",
+      "length": 47,
+      "source": "Monitoring, Response and Forensic Standard_ Japanese.pdf"
+    },
+    {
+      "id": "KB0019460_809ec3d518552de4c936c48ca8928361",
+      "text": "| \u5bfe\u5fdc\u3001\u304a\u3088\u3073 |\n| --- |\n| \u30d5\u30a9\u30ec\u30f3\u30b8\u30c3\u30af\u57fa\u6e96 |",
+      "length": 32,
+      "source": "Monitoring, Response and Forensic Standard_ Japanese.pdf"
+    },
+    {
+      "id": "KB0019460_ee9247b431dcf0700e6216afef55d6ed",
+      "text": "| Requirements Logging Controls |\n| --- |",
+      "length": 41,
+      "source": "Monitoring, Response and Forensic Standard.pdf"
+    },
+    {
+      "id": "KB0019461_fc533c378790f8872d1e9962441218c4",
+      "text": "| \u8981\u4ef6  \u2022  \u2022 |\n| --- |",
+      "length": 20,
+      "source": "Product Security Standard_ Japanese.pdf"
+    },
+    {
+      "id": "KB0019463_383a04cf8733f27d81d1984f6e873c92",
+      "text": "1\ninternationalsos.com",
+      "length": 22,
+      "source": "International SOS FAQ_eng_.pdf"
+    },
+    {
+      "id": "KB0019463_452f8a3a63ef0576cd61164efb330563",
+      "text": "2\ninternationalsos.com",
+      "length": 22,
+      "source": "International SOS FAQ_eng_.pdf"
+    },
+    {
+      "id": "KB0019463_52733539729afd7956f196184a9ce78e",
+      "text": "4\ninternationalsos.com",
+      "length": 22,
+      "source": "International SOS FAQ_eng_.pdf"
+    },
+    {
+      "id": "KB0019463_c88465a17705ef8b2ab0f4ac20fa3aa0",
+      "text": "3\ninternationalsos.com",
+      "length": 22,
+      "source": "International SOS FAQ_eng_.pdf"
+    },
+    {
+      "id": "KB0019472_99f94d0a9aee55decf2d652e951d16a6",
+      "text": "| - \u3042\u308a - \u306f\u3044 |\n| --- |",
+      "length": 21,
+      "source": "Third Party Security Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0019473_02b864bfc7ee3c7ff000b536b67552b2",
+      "text": "9\n*.231\nrials\"\nTH, EL. TH.\n11. #al\nkis\n\"",
+      "length": 40,
+      "source": "Application Security Standard.pdf"
+    },
+    {
+      "id": "KB0019473_8d423a1baf3748eb49e2bdabb7e9bcb5",
+      "text": "| \u8981\u4ef6 \u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u958b\u767a\u30e9\u30a4\u30d5\u30b5\u30a4\u30af\u30eb\u306b\u304a\u3051\u308b\u30bb\u30ad\u30e5\u30ea\u30c6\u30a3\u7d71\u5408 (SDLC) |\n| --- |",
+      "length": 49,
+      "source": "Application Security Standard_Japanese.pdf"
+    },
+    {
+      "id": "KB0019478_b7037a268f57b4f5b5f97f70e950d679",
+      "text": "| Language you want to learn English > |\n| --- |",
+      "length": 48,
+      "source": "goFluent_Hitachi Vantara PL ENG.pdf"
+    },
+    {
+      "id": "KB0019481_44dcf4e9919875b04ebb73d1e97e6d5a",
+      "text": "| Przeczytaj otrzymany | e-mail |\n| --- | --- |",
+      "length": 47,
+      "source": "FAQ+Instrukcja Moj Allianz_PL_012023.pdf"
+    },
+    {
+      "id": "KB0019481_d381ae6481753501b2cdb280f8655ea4",
+      "text": "15 lat od wyp\u0142aty.\n\u2022",
+      "length": 20,
+      "source": "FAQ+Instrukcja Moj Allianz_PL_012023.pdf"
+    },
+    {
+      "id": "KB0019481_edeaefc1b610ed7722ecd28df76a236e",
+      "text": "| fe  Adsord  YEAMS |\n| --- |",
+      "length": 29,
+      "source": "FAQ+Instrukcja Moj Allianz_EN_012023.pdf"
+    },
+    {
+      "id": "KB0019482_981591ddcc06c47b6ab6ec3432b3454c",
+      "text": "| TAK NIE TAK HI |\n| --- |",
+      "length": 26,
+      "source": "Deklaracja Allianz_PL-UK_2024.pdf"
+    },
+    {
+      "id": "KB0019482_c1d3afd397da8ebd3b907e5f0d49a9c5",
+      "text": "| czytelny podpis |\n| --- |",
+      "length": 27,
+      "source": "Allianz_O\u015bwiadczenie Brak Ankiety.pdf"
+    },
+    {
+      "id": "KB0019482_f2e5cd004dfac7d1fbf78d8d19cf30b8",
+      "text": "| Kraj/ Country |\n| --- |",
+      "length": 25,
+      "source": "Formularz Zmiany Danych_EN_2024.pdf"
+    },
+    {
+      "id": "KB0019483_561d409c9fa4cb049f7ad4975091cbba",
+      "text": "| Sk\u0142adka miesi\u0119czna (z\u0142) |\n| --- |",
+      "length": 35,
+      "source": "Deklaracja Przystapienia do Grupowego Ubezpieczenia Zdrowotnego_PL.pdf"
+    },
+    {
+      "id": "KB0019483_6e27c18ff3d988850fdfad8ff08dac5d",
+      "text": "| Data  Data  Data |\n| --- |\n| Data  Data |",
+      "length": 43,
+      "source": "Deklaracja Przystapienia do Grupowego Ubezpieczenia Zdrowotnego_PL.pdf"
+    },
+    {
+      "id": "KB0019483_ab0b06dec5be8f5472eab7b267d57428",
+      "text": "| 3. Podpis Cz\u0142onka Rodziny\u00b3) |\n| --- |",
+      "length": 39,
+      "source": "Deklaracja Przystapienia do Grupowego Ubezpieczenia Zdrowotnego_PL.pdf"
+    },
+    {
+      "id": "KB0019644_1d9cf3a21b4b4e9276f840bd5a2a19d8",
+      "text": "| Date | Description of revision |\n| --- | --- |",
+      "length": 48,
+      "source": "HD Car Policy for Poland_bilingual_Oct-2025.pdf"
+    },
+    {
+      "id": "KB0019644_88d2f9896ada553b349c6fef7bbaf1ea",
+      "text": "15\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026.\u2026\u2026\u2026\u2026.",
+      "length": 22,
+      "source": "HD Car Policy for Poland_bilingual_Oct-2025.pdf"
+    },
+    {
+      "id": "KB0019646_950782d6ff8509407351cdfc381b33c2",
+      "text": "| ul. Puszkarska 7K/ ul. Z\u0142ota 59 |\n| --- |",
+      "length": 43,
+      "source": "HD Personal Questionnaire (Kwestionariusz osobowy).pdf"
+    },
+    {
+      "id": "KB0019646_be65583252adcfe28f9454a3bf085e64",
+      "text": "| HITACHI D IGITAL (POLSKA) SP. Z \u041e \u041e |\n| --- |",
+      "length": 47,
+      "source": "HD Allianz Insurance Declaration (Deklaracja ubezpieczenia Allianz).pdf"
+    },
+    {
+      "id": "KB0019646_ca953e27d6a5412ab5ed7b4cc360a4ed",
+      "text": "| TAK NIE TAK HI |\n| --- |",
+      "length": 26,
+      "source": "HD Deklaracja przyst\u0105pienia Allianz_PL-UKR.pdf"
+    },
+    {
+      "id": "KB0019646_d272e3935ac52a8041624d83ab6f8df5",
+      "text": "| od: | do: |\n| --- | --- |",
+      "length": 27,
+      "source": "HD Personal Questionnaire (Kwestionariusz osobowy).pdf"
+    },
+    {
+      "id": "KB0019652_54d7a558862933b0fc07805a16841f2c",
+      "text": "1 Roles and Responsibilities",
+      "length": 28,
+      "source": "ANZ Work Health and Safety Policy 1 Jan 18 v 2.0_FINAL.pdf"
+    },
+    {
+      "id": "KB0019652_6c6593cad09be84b5fbc51a319004636",
+      "text": "| Date: |\n| --- |\n| Date: |\n| Date: |\n| Date: |",
+      "length": 47,
+      "source": "ANZ Work Health and Safety Policy 1 Jan 18 v 2.0_FINAL.pdf"
+    },
+    {
+      "id": "KB0019652_debc1481f7a644cd9c616dde557d1a69",
+      "text": "| Author | Human Resources |",
+      "length": 28,
+      "source": "ANZ Health & Safety Guide v2.0.pdf"
+    },
+    {
+      "id": "KB0019653_05bfb0ca127d1750cee5529b7f77d25a",
+      "text": "| Normal BIUAV 8 test |\n| --- |",
+      "length": 31,
+      "source": "Complete Self Evaluation.pdf"
+    },
+    {
+      "id": "KB0019653_1164fa3b5d2c99f9b4015bb9bf60c070",
+      "text": "| \u2611 \u54c1  Email Team 1 |\n| --- |",
+      "length": 29,
+      "source": "Create Career Profile - Final.pdf"
+    },
+    {
+      "id": "KB0019653_230eb9a4fafe4995dcb26d12fcbc4ba6",
+      "text": "| Meets Expectations |\n| --- |",
+      "length": 30,
+      "source": "Complete Self Evaluation.pdf"
+    },
+    {
+      "id": "KB0019653_26862655c79dfd69ebacdd59ada1fbc7",
+      "text": "| Competencies |\n| --- |",
+      "length": 24,
+      "source": "How to review and approve goal setting form (as a manager) 2025.pdf"
+    },
+    {
+      "id": "KB0019653_38d551843550ff942be86654458ee155",
+      "text": "| Relates To III |\n| --- |",
+      "length": 26,
+      "source": "Real-Time Feedback - Give, Get or Request.pdf"
+    },
+    {
+      "id": "KB0019653_446de31b33c62fbfb02fc975352ba778",
+      "text": "| Goals Add |\n| --- |",
+      "length": 21,
+      "source": "Complete Self Evaluation.pdf"
+    },
+    {
+      "id": "KB0019653_8dbd39a16cf2f5ea5942785148274688",
+      "text": "| x Je Searc |\n| --- |",
+      "length": 22,
+      "source": "Real-Time Feedback - Give, Get or Request.pdf"
+    },
+    {
+      "id": "KB0019653_aa0986df0320f8d8d441c9501bf94dcd",
+      "text": "| View Feedback Received |\n| --- |",
+      "length": 34,
+      "source": "Real-Time Feedback - Give, Get or Request.pdf"
+    },
+    {
+      "id": "KB0019653_dfb201bdb64107396699d2533fe2e90d",
+      "text": "| Edit Remove |\n| --- |",
+      "length": 23,
+      "source": "Create Career Profile - Final.pdf"
+    },
+    {
+      "id": "KB0019653_e3dc0b67e23a2ba14f18118ad076de53",
+      "text": "| x Hitachi FY2024 | E |\n| --- | --- |\n| 100 |  |",
+      "length": 49,
+      "source": "Complete Self Evaluation.pdf"
+    },
+    {
+      "id": "KB0019653_e775801f804affa45b6ff93f6ee5c55e",
+      "text": "| E  Give Feedback Task |\n| --- |",
+      "length": 33,
+      "source": "Real-Time Feedback - Give, Get or Request.pdf"
+    },
+    {
+      "id": "KB0019653_fd2a96dd93c873511d1b73aecfcab60a",
+      "text": "| Goals |\n| --- |\n| + Add |",
+      "length": 27,
+      "source": "How to complete and submit Goal setting form (as an employee) 2025.pdf"
+    },
+    {
+      "id": "KB0019653_fd65a6476dc1f1f7412c647890c94588",
+      "text": "| x Hitachi FY2025 !!! |\n| --- |\n| III |\n| 40 |",
+      "length": 47,
+      "source": "Employees Guide ~ Goal Setting Approach Guide - 2025.pdf"
+    },
+    {
+      "id": "KB0019679_c23fcae7d6b141a7d7cf9c4475b6e49f",
+      "text": "| 000 G 300 1340 GO C |\n| --- |",
+      "length": 31,
+      "source": "People-Manager-Guide_2024--1-.pdf"
+    },
+    {
+      "id": "KB0019679_d91026ae287b6d47bdac42d0f6a98917",
+      "text": "| Search by keyword Q |\n| --- |",
+      "length": 31,
+      "source": "AskNow-Job-Aid--MGR-How-to-Delete---Manage-Your-Team\u2019s-Journeys.pdf"
+    },
+    {
+      "id": "KB0019681_9ae334a8c124f364046832edc22158ef",
+      "text": "| Women 43%  Men 34  16  34  35  56 |\n| --- |",
+      "length": 45,
+      "source": "Gender_Unconscious_Bias_Hitachi_1_26_22.pdf"
+    },
+    {
+      "id": "KB0019681_c431db3c5f347eec6f09237176b34e65",
+      "text": "| 03 Together Stronger |\n| --- |",
+      "length": 32,
+      "source": "Hitachi_Talent_Acquisition_Toolkit.pdf"
+    },
+    {
+      "id": "KB0019759_0926c0c7cabadc034cc2e90f92431fc1",
+      "text": "| 3 Yes  25% |\n| --- |",
+      "length": 22,
+      "source": "QRG_EE_Core HCM_Career Information Update.pdf"
+    },
+    {
+      "id": "KB0019759_292584d863453b820351de794b77655f",
+      "text": "| No items available. |\n| --- |",
+      "length": 31,
+      "source": "QRG_EE_GPM_Real Time Feedback \u2013 View Feedback on Team members.pdf"
+    },
+    {
+      "id": "KB0019759_347f0edd1941c16ea49f2d7813f8b0f6",
+      "text": "| Remove |\n| --- |\n| Add |",
+      "length": 26,
+      "source": "Job Aid_EE_Recruiting_Internal Job Apply & Job Alerts (Employees).pdf"
+    },
+    {
+      "id": "KB0019759_35f0c6a2a902e88914d104dd7eb2f69d",
+      "text": "| No |\n| --- |\n| No |",
+      "length": 21,
+      "source": "QRG_EE_Core HCM_Career Information Update.pdf"
+    },
+    {
+      "id": "KB0019759_4309dff1ae3c49858a1c8ef611345de9",
+      "text": "| Jobs | B |\n| --- | --- |\n| Job Areas | H |",
+      "length": 44,
+      "source": "Job Aid_EE_Recruiting_Refer a Candidate (Employees).pdf"
+    },
+    {
+      "id": "KB0019759_8abecaf7d52b43ae4a2b5014fe7d6cfb",
+      "text": "| select one |\n| --- |",
+      "length": 22,
+      "source": "Job Aid_EE_GPM_Employee Opportunity graph_Updated.pdf"
+    },
+    {
+      "id": "KB0019759_8cd725a89a25531c0dabbf31b70737ef",
+      "text": "| > Send From: sush \u2466 |\n| --- |\n| To Bcc |\n| Cc |",
+      "length": 49,
+      "source": "Job Aid_EE_Recruiting_Refer a Candidate (Employees).pdf"
+    },
+    {
+      "id": "KB0019759_c2087bf25eac1290b802e122c3b95914",
+      "text": "1\nRefer a Candidate.\n\n2\nSocial Sharing....",
+      "length": 42,
+      "source": "Job Aid_EE_Recruiting_Refer a Candidate (Employees).pdf"
+    },
+    {
+      "id": "KB0019759_cd5d9912d4ce7dafe9e4fdf419a5cb06",
+      "text": "| Opportunity Graph |\n| --- |",
+      "length": 29,
+      "source": "Job Aid_EE_Recruiting_Career Connect (Job Hub).pdf"
+    },
+    {
+      "id": "KB0019759_d5a7d05e3278659c8413314b966a233b",
+      "text": "| = MENU W (M |\n| --- |",
+      "length": 23,
+      "source": "QRG_HR_Core HCM_Getting Started.pdf"
+    },
+    {
+      "id": "KB0019759_e13b0db4225aaa40391f983ddb4ff5ae",
+      "text": "| select one |\n| --- |\n| select one |",
+      "length": 37,
+      "source": "QRG_EE_GPM_YE_Complete Self Evaluation.pdf"
+    },
+    {
+      "id": "KB0019759_eb02d301310d0410101d5efbbef5b0c0",
+      "text": "| select one |\n| --- |\n| select one |",
+      "length": 37,
+      "source": "Job Aid_EE_GPM_Employee Opportunity graph_Updated.pdf"
+    },
+    {
+      "id": "KB0019759_ecc381cb79bfe1c3abb0ad6b8f529df4",
+      "text": "| Q search Search |\n| --- |\n| \u203a Saved Searches |",
+      "length": 48,
+      "source": "Job Aid_EE_Recruiting_Career Connect (Job Hub).pdf"
+    },
+    {
+      "id": "KB0019759_ed825b960c680ef2e1da76cf17cc1943",
+      "text": "| 403(D) Plan(S) S 457(b) Plan(s) |\n| --- |",
+      "length": 43,
+      "source": "Job Aid_EE_Onboarding_Generic Onboarding Guide (New Hire).pdf"
+    },
+    {
+      "id": "KB0019759_eda914abf065ccb7d0038fa44c55d68e",
+      "text": "| Drop file here  or 2 Select files |\n| --- |",
+      "length": 45,
+      "source": "QRG_EE_Core HCM_Photo Change.pdf"
+    },
+    {
+      "id": "KB0019778_01d47a227a230b12b6c26ada1ced628c",
+      "text": "| 21, gr 97. 21, gr |\n| --- |",
+      "length": 29,
+      "source": "Za\u0142\u0105cznik 1 - Obliczanie grupy dochodowo\u015bci (Calculating the profitability group).pdf"
+    },
+    {
+      "id": "KB0019841_be65583252adcfe28f9454a3bf085e64",
+      "text": "| HITACHI D IGITAL (POLSKA) SP. Z \u041e \u041e |\n| --- |",
+      "length": 47,
+      "source": "HD Allianz Insurance Declaration (Deklaracja ubezpieczenia Allianz).pdf"
+    },
+    {
+      "id": "KB0019841_ca953e27d6a5412ab5ed7b4cc360a4ed",
+      "text": "| TAK NIE TAK HI |\n| --- |",
+      "length": 26,
+      "source": "HD Deklaracja przyst\u0105pienia Allianz_PL-UKR.pdf"
+    },
+    {
+      "id": "KB0019842_02f629b83b84236cebb11c72358d2e71",
+      "text": "| Data  Data  Data |\n| --- |\n| Data  Data |",
+      "length": 43,
+      "source": "Deklaracja Przystapienia do Grupowego Ubezpieczenia Zdrowotnego_PL HD.pdf"
+    },
+    {
+      "id": "KB0019842_66104b954ad8b64e55dc69402b83e749",
+      "text": "| 3. Podpis Cz\u0142onka Rodziny\u00b3) |\n| --- |",
+      "length": 39,
+      "source": "Deklaracja Przystapienia do Grupowego Ubezpieczenia Zdrowotnego_PL HD.pdf"
+    },
+    {
+      "id": "KB0019842_77e24ffdaa269158aff828cf4ffa2e24",
+      "text": "| Sk\u0142adka miesi\u0119czna (z\u0142) |\n| --- |",
+      "length": 35,
+      "source": "Deklaracja Przystapienia do Grupowego Ubezpieczenia Zdrowotnego_PL HD.pdf"
+    },
+    {
+      "id": "KB0019890_28c2d55fea570e8bec5dba240903e021",
+      "text": "|  | His |\n| --- | --- |\n|  | C |\n| \u21d0 |  |",
+      "length": 42,
+      "source": "Plany ewakuacji B4B budynek F.pdf"
+    },
+    {
+      "id": "KB0019890_7c998e41775934f61ba143bf6c10fd8e",
+      "text": "|  | His |\n| --- | --- |\n|  | C |\n| \u21d0 |  |",
+      "length": 42,
+      "source": "B4B Budynek F - rzut gara\u017cu -II_garage plan II.pdf"
+    },
+    {
+      "id": "KB0019890_99d4cfd2eaa7469aaf3f0ee0d1a5e167",
+      "text": "| 3 2  NO 3 w B |\n| --- |",
+      "length": 25,
+      "source": "IBP - Strzegomska.pdf"
+    },
+    {
+      "id": "KB0019890_affce3c465bdf598f9ecdc1271754dac",
+      "text": "4\n8\niX\nNIESPRAWNA\nthk\nF",
+      "length": 23,
+      "source": "IBP - Strzegomska.pdf"
+    },
+    {
+      "id": "KB0019890_cdd6ff8e05946dc6463e0e1779bb1717",
+      "text": "63\n71\n\n57\nrz\u0119dna 222,25m npm.\nPOZIOM -1",
+      "length": 39,
+      "source": "IBP - B4B, budynek F.pdf"
+    },
+    {
+      "id": "KB0019898_8f0a2e747d0a760d7d36ad7633a21967",
+      "text": "| EMEA Spain January 2026 |\n| --- |",
+      "length": 35,
+      "source": "FY26 ACR Employee FAQ_031226.pdf"
+    },
+    {
+      "id": "KB0019900_1b1d4153416b2639f43d65fd67f47bad",
+      "text": "| Search !!! |\n| --- |",
+      "length": 22,
+      "source": "QRG_MGR_Core HCM_Cost Center Change.pdf"
+    },
+    {
+      "id": "KB0019900_1f232de6d8cd2410f6c7dcecbc3840a4",
+      "text": "| Req  Opti |\n| --- |\n| Effe  Data Source B |",
+      "length": 45,
+      "source": "Job Aid_HR_Core HCM_Reports.pdf"
+    },
+    {
+      "id": "KB0019900_2868d4823f3a07d1a5a17058487e7ee1",
+      "text": "1\nMM/DD/YYYY\nSupervisory Organization*\nE",
+      "length": 40,
+      "source": "QRG_MGR_Core HCM_Manager Move Workers (Supervisory).pdf"
+    },
+    {
+      "id": "KB0019900_2b0407eeb508dadc1b2978f9bde10293",
+      "text": "| Awaiting Me Awaiting  Offer |\n| --- |",
+      "length": 39,
+      "source": "Job Aid_HR_Recruiting_Offer Letter (Recruiter, HR & Manager).pdf"
+    },
+    {
+      "id": "KB0019900_41675acfea5196243548e64309fdf138",
+      "text": "| Format  (empty) | BIUAV B 8 |\n| --- | --- |",
+      "length": 45,
+      "source": "Job Aid_HR_Recruiting_Manage Job Requisition (Manager).pdf"
+    },
+    {
+      "id": "KB0019900_4e5330a15871e97ac4aac97d2da289db",
+      "text": "| Job Requisition * III |\n| --- |",
+      "length": 33,
+      "source": "Job Aid_Recruiting_Manage Job Requisition (Recruiter & HR).pdf"
+    },
+    {
+      "id": "KB0019900_53321d3e5a1d2bcc91f137c66365aad6",
+      "text": "| Format BIU A V (empty) |\n| --- |",
+      "length": 34,
+      "source": "Job Aid_HR_Recruiters_MGR_Create Job Requistion Basics_HD.pdf"
+    },
+    {
+      "id": "KB0019900_576ff488e5259eb69c9e4c708dc776b2",
+      "text": "| Employee Contract |\n| --- |\n| Test |",
+      "length": 38,
+      "source": "QRG_MGR_Core HCM_Add or Change Contract.pdf"
+    },
+    {
+      "id": "KB0019900_577e75584ec68d97b95a7df099b920e8",
+      "text": "| x Hybrid Work MI |\n| --- |",
+      "length": 28,
+      "source": "QRG_MGR_Core HCM_Flexible Work Arrangement.pdf"
+    },
+    {
+      "id": "KB0019900_5cfdc9779077ef01bfd2ce3dfbca377e",
+      "text": "| Search ||| |\n| --- |",
+      "length": 22,
+      "source": "QRG_MGR_Core HCM_Change Organization Assignment.pdf"
+    },
+    {
+      "id": "KB0019900_5ebaa808232d7346f4e507c37d59e874",
+      "text": "| X Frozen III |\n| --- |\n| \u00d7 Open |",
+      "length": 35,
+      "source": "Job Aid_HR_Recruiting_Manage Job Requisition (Manager).pdf"
+    },
+    {
+      "id": "KB0019900_65d55e43fa160ac7519677bba5eb4238",
+      "text": "| 01/23/2026 - Offer 7 Compensation |\n| --- |",
+      "length": 45,
+      "source": "Job Aid_HR_Recruiting_Offer Letter (Recruiter, HR & Manager).pdf"
+    },
+    {
+      "id": "KB0019900_7fa1c0b713b6cd33f093615ac53cff3b",
+      "text": "| Turn on the new tables view old 191 |\n| --- |",
+      "length": 47,
+      "source": "Job Aid_HR_Core HCM_Reports.pdf"
+    },
+    {
+      "id": "KB0019900_83642f1daa8b7e985944e9ce7ff4a00f",
+      "text": "| Month(s) = |\n| --- |",
+      "length": 22,
+      "source": "Job Aid_HR_Core HCM_Reports.pdf"
+    },
+    {
+      "id": "KB0019900_8c958f5faee47cedb9f69ced44727c3f",
+      "text": "| Type Employee |\n| --- |",
+      "length": 25,
+      "source": "Job Aid_Recruiting_Manage Job Requisition (Recruiter & HR).pdf"
+    },
+    {
+      "id": "KB0019900_aa32594f53aee3dc87e15c6ee8cdb6a3",
+      "text": "| Awaiting Me Awaiting |\n| --- |\n| Offer |",
+      "length": 42,
+      "source": "Job Aid_HR_Recruiting_Offer Letter (Recruiter, HR & Manager).pdf"
+    },
+    {
+      "id": "KB0019900_ae9b41238041cebd4de19bde7b52a229",
+      "text": "| Achieving |\n| --- |",
+      "length": 21,
+      "source": "QRG_MGR_GPM_YE_Complete a Manager Evaluation.pdf"
+    },
+    {
+      "id": "KB0019900_bdc2e0fb9b685a174727e5563ed7031e",
+      "text": "| Post Job Job Boards |\n| --- |",
+      "length": 31,
+      "source": "Job Aid_HR_Recruiting_Create Job Requisition (Recruiter & HR & Manager).pdf"
+    },
+    {
+      "id": "KB0019900_d45bc397b07e0fe27f3eca133253f7e2",
+      "text": "| !!! |\n| --- |\n| x Hitachi Vantara LLC !!! |",
+      "length": 45,
+      "source": "Job Aid_HR_Recruiting_Create Job Requisition (Recruiter & HR & Manager).pdf"
+    },
+    {
+      "id": "KB0019900_dfd660b1482005f99435f8761e957bfa",
+      "text": "| Format BIU A V (empty) |\n| --- |",
+      "length": 34,
+      "source": "Job Aid_HR_Recruiters_MGR_Create Job Requistion Basics_DS&HV.pdf"
+    },
+    {
+      "id": "KB0019900_e44afc82c5b578e326e11627b9652a00",
+      "text": "| Attachments |\n| --- |",
+      "length": 23,
+      "source": "Job Aid_HR_Recruiting_Create Job Requisition (Recruiter & HR & Manager).pdf"
+    },
+    {
+      "id": "KB0019901_03ea2facf13abb1c323d04756b67c174",
+      "text": "| xIndia (+91) E |\n| --- |",
+      "length": 26,
+      "source": "Job Aid_HR_Recruiting_Job Application Process (Recruiter Onboarding).pdf"
+    },
+    {
+      "id": "KB0019901_0e0b5a33280a15ea06b7ef7af9036158",
+      "text": "1\nRoles\n\n2\nManage Grading & Attendance",
+      "length": 38,
+      "source": "Job Aid_HR_Learning_How a Learning Trainer can update course completions.pdf"
+    },
+    {
+      "id": "KB0019901_0e17fa7790f3a7a7051ea902c1f51905",
+      "text": "| R000 y- |\n| --- |\n| R000 \u2082 |\n| ROO 1) |\n| F |",
+      "length": 47,
+      "source": "Job Aid_HR_Recruiting_Navigating Recruiting Worklet (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_0fff19cfc5d105aa99b04edb0480c483",
+      "text": "| Proposed IDS |\n| --- |",
+      "length": 24,
+      "source": "Job Aid_HR_Core HCM_Hire an Employee (GL).pdf"
+    },
+    {
+      "id": "KB0019901_15d1b5e167b4082a609bfed2298665b9",
+      "text": "| Offer 1 No No \u2022 Regular Malaysia |\n| --- |",
+      "length": 44,
+      "source": "Job Aid_HR_Recruiting_Navigating Recruiting Worklet (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_17f46ad6aaa39534cfd85d3e582d6137",
+      "text": "| \u7f8e\u56e2  h Reason  D  Offer 0  Offer  0 |\n| --- |",
+      "length": 46,
+      "source": "Job Aid_HR_Recruiting_Navigating Recruiting Worklet (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_199fd01ce2e6721cc44f1013968df027",
+      "text": "| Referred by III |\n| --- |\n| Within !!! |",
+      "length": 42,
+      "source": "Job Aid_HR_Recruiting_Create Candidate Pool (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_2f6eefa2c38fbb370d682c7527af7f14",
+      "text": "|  | Step |\n| --- | --- |\n| a | Initial Review |",
+      "length": 48,
+      "source": "Job Aid_HR_Recruiting_Create Confidential Prospects (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_3c22795ab7369781012a1e68b59cfd51",
+      "text": "| === |\n| --- |\n| II  === |",
+      "length": 27,
+      "source": "Job Aid_HR_Onboarding_Generic Onboarding Guide (HR).pdf"
+    },
+    {
+      "id": "KB0019901_49f401b998ad7e662cfb59fbeba67d5e",
+      "text": "2\nAdd to Chrone\n\n1\n50 Share",
+      "length": 27,
+      "source": "QRG_HR_Paradox_How to download the browser extension.pdf"
+    },
+    {
+      "id": "KB0019901_4b954daef49ecb88930d9f08df88ec1a",
+      "text": "| X Yes III |\n| --- |\n| X Yes |",
+      "length": 31,
+      "source": "QRG_HR_Core HCM_LWD Changes.pdf"
+    },
+    {
+      "id": "KB0019901_4e9ae283e908342242f0473e0f6cc282",
+      "text": "| Format \u2713 BIUAV lo |\n| --- |",
+      "length": 29,
+      "source": "Job Aid_HR_Recruiting_Confidential Job Application Process (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_5121fc31d01279df60fb3aba367a23ad",
+      "text": "| Name |\n| --- |\n| Description |",
+      "length": 32,
+      "source": "Job Aid_HR_Recruiting_Create Candidate Pool (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_520331ae6e3f5d3b2f3da13969ad551f",
+      "text": "| Employee * |\n| --- |",
+      "length": 22,
+      "source": "Job Aid_HR_Core HCM_Terminate an Employee.pdf"
+    },
+    {
+      "id": "KB0019901_6162283f8716393896fb4831797bc12d",
+      "text": "| Drop files here |\n| --- |\n| 1.0 Select files |",
+      "length": 48,
+      "source": "Job Aid_HR_Core HCM_Document Digitalization.pdf"
+    },
+    {
+      "id": "KB0019901_70b0c1ed212635be829ede21b096d48a",
+      "text": "| \u2190 Add Job \u2611 X |\n| --- |\n| \u2713 Additional Details |",
+      "length": 50,
+      "source": "Job Aid_HR_Core HCM_Additional Job.pdf"
+    },
+    {
+      "id": "KB0019901_7fc709d347373291f95db7e410324061",
+      "text": "| Name |\n| --- |\n| Description |",
+      "length": 32,
+      "source": "Job Aid_HR_Recruiting_Create Candidate Pool (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_821f854ea64a08580932ed78c0fb9536",
+      "text": "| III  III  !!! |\n| --- |",
+      "length": 25,
+      "source": "Job Aid_HR_Recruiting_Create Candidate Pool (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_84aef1f926803973c4fbe1774b079094",
+      "text": "| x India (+91) E |\n| --- |",
+      "length": 27,
+      "source": "Job Aid_HR_Recruiting_Create Prospects and Candidate Home (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_8d1755d6b8ac95fe070c5832abfeb8a8",
+      "text": "| Q cre con pros x  Recruiting |\n| --- |",
+      "length": 40,
+      "source": "Job Aid_HR_Recruiting_Create Confidential Prospects (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_8e9bde89d5f1e1be0e4ef9d8b2c5dcb0",
+      "text": "| x India (+91) = |\n| --- |",
+      "length": 27,
+      "source": "Job Aid_HR_Recruiting_Create Confidential Prospects (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_91f0af159fed11cde944984f5e2d496f",
+      "text": "| III |\n| --- |\n| !!!  III |",
+      "length": 28,
+      "source": "Job Aid_HR_Recruiting_Create Candidate Pool (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_9603b5780d6e76186d70f385633abe59",
+      "text": "| = |\n| --- |\n| E |\n| EE |\n| == |",
+      "length": 33,
+      "source": "Job Aid_HR_Core HCM_Organization Reference for HR.pdf"
+    },
+    {
+      "id": "KB0019901_982823cc583d0041d1feab968890003e",
+      "text": "| Tags/Pools |\n| --- |",
+      "length": 22,
+      "source": "QRG_HR_Recruiters_Recruiting_How to Add Candidate Tags.pdf"
+    },
+    {
+      "id": "KB0019901_9c009c59b10a2eb74bfdb968a7bbd200",
+      "text": "| + \"URL Address No items available. |\n| --- |",
+      "length": 46,
+      "source": "Job Aid_HR_Recruiting_Create Confidential Prospects (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_a046e27fa5f987b59b035681da96b46e",
+      "text": "| E |\n| --- |\n| E  = |",
+      "length": 22,
+      "source": "Job Aid_HR_Recruiting_Create Candidate Pool (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_a7d0ff7d64d253b0edbbfd5adbc99bf2",
+      "text": "| JP nagar |\n| --- |\n| 560078 |\n| == |",
+      "length": 38,
+      "source": "Job Aid_HR_Recruiting_Create Prospects and Candidate Home (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_a845fa892a8d2aa086c3d1db80bbbe6c",
+      "text": "1\nView Profile\nActions",
+      "length": 22,
+      "source": "QRG_HR_Core HCM_Change Organization Assignment.pdf"
+    },
+    {
+      "id": "KB0019901_b548b9082c0a266062a9b83aa5225aff",
+      "text": "| Amount *  0.00 INR 0.00 |\n| --- |",
+      "length": 35,
+      "source": "Job Aid_HR_Core HCM_Request One Time Payment.pdf"
+    },
+    {
+      "id": "KB0019901_b93192f261421eda5c300ba7062a170f",
+      "text": "| O  (empty) |\n| --- |",
+      "length": 22,
+      "source": "Job Aid_HR_Core HCM_SVO Management.pdf"
+    },
+    {
+      "id": "KB0019901_ba4a1f4cb4a5cc808c94ec319e3c0478",
+      "text": "| Supervisory Organization * | !!! |\n| --- | --- |",
+      "length": 50,
+      "source": "Job Aid_HR_Core HCM_Hire an Employee (OpCos - HD,DS,HV).pdf"
+    },
+    {
+      "id": "KB0019901_bb2b0724a6592165fe53465242827772",
+      "text": "| * Type Dynamic Pool Static Pool |\n| --- |",
+      "length": 43,
+      "source": "Job Aid_HR_Recruiting_Create Candidate Pool (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_bb87c1e2c149664999509b6ab5f96c0a",
+      "text": "| Location  JP nagar, 560078 India |\n| --- |",
+      "length": 44,
+      "source": "Job Aid_HR_Recruiting_Create Prospects and Candidate Home (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_bf387e88f4c41eb8574959d6139df25b",
+      "text": "| Actual |\n| --- |\n| Currency |",
+      "length": 31,
+      "source": "Job Aid_HR_Recruiting_Create Prospects and Candidate Home (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_bf4ad3b2255cdebc5d8af5ed079995a8",
+      "text": "| Move Remove |\n| --- |",
+      "length": 23,
+      "source": "Job Aid_HR_Recruiting_Navigating Recruiting Worklet (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_c495ebb581424a94e5577ace05a8ab56",
+      "text": "| x R0105405 Test Demo (Closed) E |\n| --- |",
+      "length": 43,
+      "source": "Job Aid_HR_Recruiting_Navigating Recruiting Worklet (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_c895641958cb08836b14dc7f3d6b1b42",
+      "text": "| Q Test Employee 2 |\n| --- |",
+      "length": 29,
+      "source": "QRG_HR_Core HCM_Exit Withdrawal Process.pdf"
+    },
+    {
+      "id": "KB0019901_c9861375fb77811d8b8032f24efc12c2",
+      "text": "| Search !!! |\n| --- |",
+      "length": 22,
+      "source": "Job Aid_HR_Core HCM_Terminate an Employee.pdf"
+    },
+    {
+      "id": "KB0019901_cbb289b9d9d8c86c77f3d21755625724",
+      "text": "1 Manage Delegation Settings.",
+      "length": 29,
+      "source": "Job Aid_HR_Core HCM Delegation Change.pdf"
+    },
+    {
+      "id": "KB0019901_d1610ae00e71b9613d97f7e54361cef7",
+      "text": "| x Supervisory = |\n| --- |",
+      "length": 27,
+      "source": "Job Aid_HR_Core HCM_SVO Management.pdf"
+    },
+    {
+      "id": "KB0019901_d343801eff782058de7d7fd22cd97346",
+      "text": "| Roles |\n| --- |\n| Manage Grading & Attendance |",
+      "length": 49,
+      "source": "Job Aid_HR_Learning_How a Learning Trainer can update course completions.pdf"
+    },
+    {
+      "id": "KB0019901_d5aa855de3b48c07c673e1a3f86499e2",
+      "text": "| X PLN |\n| --- |\n| \u00d7 Annual |",
+      "length": 30,
+      "source": "Job Aid_HR_Core HCM_Hire an Employee (OpCos - HD,DS,HV).pdf"
+    },
+    {
+      "id": "KB0019901_d7a0be96362559e7887c2cf45072fc25",
+      "text": "| X GBP == |\n| --- |\n| x Annual |",
+      "length": 33,
+      "source": "Job Aid_HR_Core HCM_Request Compensation Change.pdf"
+    },
+    {
+      "id": "KB0019901_dba264e67526aa1321999a5658433800",
+      "text": "| = |\n| --- |\n| TE  = |",
+      "length": 23,
+      "source": "Job Aid_HR_Recruiting_Create Candidate Pool (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_ee7cdf4b80e65f69a06fd932dc2813dd",
+      "text": "| Format v BI U AM B |\n| --- |",
+      "length": 30,
+      "source": "Job Aid_HR_Recruiting_Create Confidential Job Requisition (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_ef905c443c9337745539e05aa8393ab5",
+      "text": "| Proposed Supervisory Organization = O |\n| --- |",
+      "length": 49,
+      "source": "Job Aid_HR_Core HCM_Move Workers (Supervisory).pdf"
+    },
+    {
+      "id": "KB0019901_f5f7d45b5e4bfe78fba314914643ba70",
+      "text": "| Q Edit Prospect |\n| --- |\n| Edit Prospect Task |",
+      "length": 50,
+      "source": "Job Aid_HR_Recruiting_Create Prospects and Candidate Home (Recruiter).pdf"
+    },
+    {
+      "id": "KB0019901_f7c2286b5b6c7a95e723a0bf59bbe415",
+      "text": "3\n3.\nGet Feedback on Worker",
+      "length": 27,
+      "source": "Job Aid_HR_Core HCM_Feedback.pdf"
+    },
+    {
+      "id": "KB0019903_5b97bdb1704200be2388d43834918b5e",
+      "text": "| 23rd Mar 2026 | Policy created |\n| --- | --- |",
+      "length": 48,
+      "source": "Stand-by On-Call Poland HD_Apr2026F.pdf"
+    },
+    {
+      "id": "KB0019904_187cb3a9974712c64c99812f8dd8fdab",
+      "text": "94\n37\nOn Hold\nPre Identified\nNew\n\n0\n1",
+      "length": 37,
+      "source": "Adding and Managing Candidate Profiles in Workday VNDLY.pdf"
+    },
+    {
+      "id": "KB0019904_b61408ab5d546fa7534f7581ec8ccbb2",
+      "text": "| Add Edit  Add (1) Edit |\n| --- |",
+      "length": 34,
+      "source": "Reporting in Workday VNDLY.pdf"
+    },
+    {
+      "id": "KB0019908_28f6a64cbaa687711523c51865bab1a3",
+      "text": "| DDMMRRRR |\n| --- |",
+      "length": 20,
+      "source": "Fomularz Odejscia.pdf"
+    },
+    {
+      "id": "KB0019908_981591ddcc06c47b6ab6ec3432b3454c",
+      "text": "| TAK NIE TAK HI |\n| --- |",
+      "length": 26,
+      "source": "Deklaracja Allianz_PL-UK_2024.pdf"
+    },
+    {
+      "id": "KB0019908_c1d3afd397da8ebd3b907e5f0d49a9c5",
+      "text": "| czytelny podpis |\n| --- |",
+      "length": 27,
+      "source": "Allianz_O\u015bwiadczenie Brak Ankiety.pdf"
+    },
+    {
+      "id": "KB0019908_f2e5cd004dfac7d1fbf78d8d19cf30b8",
+      "text": "| Kraj/ Country |\n| --- |",
+      "length": 25,
+      "source": "Formularz Zmiany Danych_EN_2024.pdf"
+    },
+    {
+      "id": "KB0019909_9650044bf1ffe0f70183d250684ad0a0",
+      "text": "4\ninter\nUBEZPIECZENIA",
+      "length": 21,
+      "source": "2025PLVantaraManager Hitachi  (1).pdf"
+    },
+    {
+      "id": "KB0019909_ba60ebd744d8d0851b40e09eb4d95279",
+      "text": "4\ninter\nUBEZPIECZENIA",
+      "length": 21,
+      "source": "2025PLVantaraPracownikHitachi .pdf"
+    }
+  ]
+}

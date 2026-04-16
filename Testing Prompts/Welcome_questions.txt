@@ -1,0 +1,5 @@
+1. Which policy or topic do you need help with? (e.g., Travel & Expense, GenAI, Corporate Card, Product Security)?
+2. What would you like to do: find a policy, ask a question about a policy, report an incident, or request an approval?
+3. Are you asking on behalf of yourself, a colleague, a contractor, or a supplier?
+4. Is your question related to travel, expenses, payments, data security, or HR matters?
+5. Is this regarding any other issue? Please let me know.

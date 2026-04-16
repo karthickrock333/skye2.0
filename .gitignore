@@ -1,0 +1,103 @@
+# =============================================================================
+# HD SKYE Agent 2.0 - Git Ignore
+# =============================================================================
+
+# Environment files (secrets)
+.env
+.env.*
+!.env.example
+
+# Auth files - never commit
+auth.json
+hd-onedata-uat.json
+hd-onedata-preprod.json
+hd-onedata-prod.json
+service-accounts/
+*.pem
+*.key
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Build outputs
+dist/
+build/
+frontend/dist/
+
+# Logs
+*.log
+logs/
+
+# Coverage reports
+coverage/
+.coverage
+htmlcov/
+.nyc_output/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Local development
+*.local
+.local/
+
+# Bun
+bun.lockb
+
+# Package manager locks (keep one, ignore others if using multiple)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+auth2.json
+
+# Test results
+test-results/
+
+# Environment configs (sensitive infra)
+env/
+
+# Test files
+_test_*.py
+_perf_test.py
+
+# Diff/patch files
+diff_patch.txt
+
+# Binary / reference docs (store in GCS, not git)
+*.zip
+*.docx
+*.xlsx
+*.pptx

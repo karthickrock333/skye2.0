@@ -1,0 +1,1355 @@
+{
+  "KB0012316": {
+    "indexed": true,
+    "status": "INDEXED_SPARSE",
+    "chunk_count": 1,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0012316_US_Bereavement_Leave.html"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "avg_chars": 266,
+    "min_chars": 266,
+    "max_chars": 266,
+    "chunk_types": {
+      "prose": 1
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#145"
+    ]
+  },
+  "KB0012510": {
+    "indexed": true,
+    "status": "INDEXED_SPARSE",
+    "chunk_count": 1,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0012510_Employment_Verification.html"
+    ],
+    "countries": [
+      "GLOBAL"
+    ],
+    "avg_chars": 1472,
+    "min_chars": 1472,
+    "max_chars": 1472,
+    "chunk_types": {
+      "prose": 1
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#42"
+    ]
+  },
+  "KB0012513": {
+    "indexed": true,
+    "status": "INDEXED_SPARSE",
+    "chunk_count": 1,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0012513_Business_Cards.html"
+    ],
+    "countries": [
+      "GLOBAL"
+    ],
+    "avg_chars": 331,
+    "min_chars": 331,
+    "max_chars": 331,
+    "chunk_types": {
+      "prose": 1
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#7,#47"
+    ]
+  },
+  "KB0012537": {
+    "indexed": true,
+    "status": "INDEXED_SPARSE",
+    "chunk_count": 2,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0012537_US_Vacation_for_Non-Exempt_Employees.html"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "avg_chars": 1050,
+    "min_chars": 692,
+    "max_chars": 1407,
+    "chunk_types": {
+      "prose": 2
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#149"
+    ]
+  },
+  "KB0012538": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 10,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0012538_US_Vacation_for_Exempt_Employees.html"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "avg_chars": 1251,
+    "min_chars": 705,
+    "max_chars": 1486,
+    "chunk_types": {
+      "section": 10
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#145"
+    ]
+  },
+  "KB0012723": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 70,
+    "source_count": 2,
+    "sources": [
+      "Hitachi Global Travel and Expense Policy.pdf",
+      "ServiceNow_KB_KB0012723_Hitachi_Global_Travel_and_Expense_Policy.html"
+    ],
+    "countries": [
+      "GLOBAL"
+    ],
+    "avg_chars": 1403,
+    "min_chars": 37,
+    "max_chars": 3636,
+    "chunk_types": {
+      "section": 39,
+      "table": 29,
+      "prose": 2
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 2,
+    "questions": [
+      "#51"
+    ]
+  },
+  "KB0012781": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 11,
+    "source_count": 2,
+    "sources": [
+      "ANZ Personal Leave Policy.pdf",
+      "ServiceNow_KB_KB0012781_Hitachi_Personal_Leave_Policy_Australia_-_New_Zealand.html"
+    ],
+    "countries": [
+      "Australia"
+    ],
+    "avg_chars": 1019,
+    "min_chars": 84,
+    "max_chars": 2521,
+    "chunk_types": {
+      "prose": 2,
+      "table": 2,
+      "section": 7
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#98"
+    ]
+  },
+  "KB0015608": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 12,
+    "source_count": 2,
+    "sources": [
+      "ServiceNow_KB_KB0015608_US_Exempt_Employee_Flexible_Paid_Time_Off_FPTO_Guideline.html",
+      "US Exempt Employee Flexible PTO Guideline.pdf"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "avg_chars": 963,
+    "min_chars": 282,
+    "max_chars": 1598,
+    "chunk_types": {
+      "prose": 10,
+      "table": 2
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#149"
+    ]
+  },
+  "KB0017452": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 30,
+    "source_count": 3,
+    "sources": [
+      "ServiceNow_KB_KB0017452_UK_Absence_Policy.html",
+      "UK Absence Policy.pdf",
+      "UK Educational Assistance Policy 2022.pdf"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "avg_chars": 1343,
+    "min_chars": 53,
+    "max_chars": 3444,
+    "chunk_types": {
+      "prose": 8,
+      "section": 11,
+      "table": 11
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#98"
+    ]
+  },
+  "KB0017695": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 13,
+    "source_count": 2,
+    "sources": [
+      "Hitachi Vantara Business Title Policy FY2024.pdf",
+      "ServiceNow_KB_KB0017695_Hitachi_Policy_for_Business_Titles_Global.html"
+    ],
+    "countries": [
+      "GLOBAL"
+    ],
+    "avg_chars": 757,
+    "min_chars": 168,
+    "max_chars": 1466,
+    "chunk_types": {
+      "prose": 10,
+      "table": 3
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#7,#47"
+    ]
+  },
+  "KB0018090": {
+    "indexed": true,
+    "status": "INDEXED_SPARSE",
+    "chunk_count": 2,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018090_Office_Supply_Account_-_Office_Depot.html"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "avg_chars": 868,
+    "min_chars": 388,
+    "max_chars": 1349,
+    "chunk_types": {
+      "prose": 2
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#115"
+    ]
+  },
+  "KB0018246": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 9,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018246_Brazil_Benefits_FAQ.html"
+    ],
+    "countries": [
+      "Brazil"
+    ],
+    "avg_chars": 795,
+    "min_chars": 127,
+    "max_chars": 2035,
+    "chunk_types": {
+      "faq_pair": 8,
+      "prose": 1
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#4,#136"
+    ]
+  },
+  "KB0018259": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 16,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018259_Canada_Benefits_and_General_FAQ.html"
+    ],
+    "countries": [
+      "Canada"
+    ],
+    "avg_chars": 1200,
+    "min_chars": 138,
+    "max_chars": 1493,
+    "chunk_types": {
+      "section": 16
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#115",
+      "#125"
+    ]
+  },
+  "KB0018278": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 19,
+    "source_count": 3,
+    "sources": [
+      "ALLIANZ_Oferta szczeg\u00f3\u0142owa dla pracownik\u00f3w.docx",
+      "ServiceNow_KB_KB0018278_Poland_Benefits_FAQ.html",
+      "TERMS AND CONDITIONS FOR EMPLOYEES.doc"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "avg_chars": 1199,
+    "min_chars": 76,
+    "max_chars": 1488,
+    "chunk_types": {
+      "prose": 15,
+      "table": 2,
+      "section": 2
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#78",
+      "#98",
+      "#125"
+    ]
+  },
+  "KB0018371": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 3,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018371_Spain_Leavers_FAQs.html"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "avg_chars": 1374,
+    "min_chars": 1172,
+    "max_chars": 1493,
+    "chunk_types": {
+      "prose": 3
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#42"
+    ]
+  },
+  "KB0018376": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 4,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018376_Spain_Holidays_FAQs.html"
+    ],
+    "countries": [
+      "Spain"
+    ],
+    "avg_chars": 1270,
+    "min_chars": 839,
+    "max_chars": 1487,
+    "chunk_types": {
+      "prose": 4
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#116"
+    ]
+  },
+  "KB0018378": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 3,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018378_Vietnam_Holidays_FAQs.html"
+    ],
+    "countries": [
+      "Vietnam"
+    ],
+    "avg_chars": 1181,
+    "min_chars": 668,
+    "max_chars": 1451,
+    "chunk_types": {
+      "prose": 3
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#145"
+    ]
+  },
+  "KB0018380": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 9,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018380_Vietnam_New_Joiner_FAQs.html"
+    ],
+    "countries": [
+      "Vietnam"
+    ],
+    "avg_chars": 1183,
+    "min_chars": 406,
+    "max_chars": 1496,
+    "chunk_types": {
+      "prose": 9
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#116"
+    ]
+  },
+  "KB0018408": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 7,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018408_Switzerland_New_Joiner_FAQ.html"
+    ],
+    "countries": [
+      "GLOBAL"
+    ],
+    "avg_chars": 1195,
+    "min_chars": 428,
+    "max_chars": 1429,
+    "chunk_types": {
+      "prose": 7
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#99",
+      "#115"
+    ]
+  },
+  "KB0018410": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 3,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018410_Israel_Leavers_FAQ.html"
+    ],
+    "countries": [
+      "Israel"
+    ],
+    "avg_chars": 1374,
+    "min_chars": 1210,
+    "max_chars": 1476,
+    "chunk_types": {
+      "prose": 3
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#79"
+    ]
+  },
+  "KB0018493": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 4,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018493_Taiwan_Holidays_FAQs.html"
+    ],
+    "countries": [
+      "Taiwan"
+    ],
+    "avg_chars": 1219,
+    "min_chars": 597,
+    "max_chars": 1483,
+    "chunk_types": {
+      "prose": 4
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#68"
+    ]
+  },
+  "KB0018506": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 3,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018506_Netherlands_Leavers_FAQs.html"
+    ],
+    "countries": [
+      "Netherlands"
+    ],
+    "avg_chars": 1142,
+    "min_chars": 589,
+    "max_chars": 1433,
+    "chunk_types": {
+      "prose": 3
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#79"
+    ]
+  },
+  "KB0018535": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 4,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018535_India_Health_Insurance_FAQs.html"
+    ],
+    "countries": [
+      "India"
+    ],
+    "avg_chars": 1255,
+    "min_chars": 997,
+    "max_chars": 1485,
+    "chunk_types": {
+      "prose": 4
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#125"
+    ]
+  },
+  "KB0018550": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 3,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018550_Italy_Holidays_FAQs.html"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "avg_chars": 1335,
+    "min_chars": 1068,
+    "max_chars": 1469,
+    "chunk_types": {
+      "prose": 3
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#68",
+      "#116"
+    ]
+  },
+  "KB0018551": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 3,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018551_Italy_Leavers_FAQs.html"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "avg_chars": 1316,
+    "min_chars": 1077,
+    "max_chars": 1468,
+    "chunk_types": {
+      "prose": 3
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#42",
+      "#79"
+    ]
+  },
+  "KB0018552": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 9,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018552_Italy_New_Joiner_FAQs.html"
+    ],
+    "countries": [
+      "Italy"
+    ],
+    "avg_chars": 1228,
+    "min_chars": 655,
+    "max_chars": 1492,
+    "chunk_types": {
+      "prose": 9
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#99"
+    ]
+  },
+  "KB0018612": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 3,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018612_Saudi_Arabia_Holidays_FAQs.html"
+    ],
+    "countries": [
+      "Saudi Arabia"
+    ],
+    "avg_chars": 1170,
+    "min_chars": 740,
+    "max_chars": 1472,
+    "chunk_types": {
+      "prose": 3
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#68",
+      "#78"
+    ]
+  },
+  "KB0018703": {
+    "indexed": true,
+    "status": "INDEXED_SPARSE",
+    "chunk_count": 2,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018703_Belgium_Holidays_FAQs.html"
+    ],
+    "countries": [
+      "Belgium"
+    ],
+    "avg_chars": 1168,
+    "min_chars": 967,
+    "max_chars": 1368,
+    "chunk_types": {
+      "prose": 2
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#68"
+    ]
+  },
+  "KB0018707": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 6,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018707_APAC_New_Joiner_FAQs.html"
+    ],
+    "countries": [
+      "GLOBAL"
+    ],
+    "avg_chars": 1314,
+    "min_chars": 924,
+    "max_chars": 1473,
+    "chunk_types": {
+      "prose": 6
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#4,#136"
+    ]
+  },
+  "KB0018757": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 8,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018757_UK_New_Joiner_FAQs.html"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "avg_chars": 1145,
+    "min_chars": 49,
+    "max_chars": 1494,
+    "chunk_types": {
+      "prose": 8
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 1,
+    "questions": [
+      "#98",
+      "#99"
+    ]
+  },
+  "KB0018767": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 7,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018767_Sweden_New_Joiner_FAQs.html"
+    ],
+    "countries": [
+      "Sweden"
+    ],
+    "avg_chars": 1158,
+    "min_chars": 49,
+    "max_chars": 1493,
+    "chunk_types": {
+      "prose": 7
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 1,
+    "questions": [
+      "#99"
+    ]
+  },
+  "KB0018856": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 120,
+    "source_count": 4,
+    "sources": [
+      "Onboarding - SN Demo.pptx",
+      "Onboarding Process in SN - Candidates View.pdf",
+      "Onboarding Stages_2024.xlsx",
+      "ServiceNow_KB_KB0018856_ServiceNow_Onboarding_Process_Candidates_View_-_Demo_and_FAQs.html"
+    ],
+    "countries": [
+      "GLOBAL",
+      "United States"
+    ],
+    "avg_chars": 618,
+    "min_chars": 41,
+    "max_chars": 3810,
+    "chunk_types": {
+      "section": 89,
+      "table": 20,
+      "faq_pair": 11
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 2,
+    "questions": [
+      "#4,#136"
+    ]
+  },
+  "KB0018917": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 6,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018917_Turkey_New_Joiner_FAQs.html"
+    ],
+    "countries": [
+      "GLOBAL"
+    ],
+    "avg_chars": 1254,
+    "min_chars": 406,
+    "max_chars": 1479,
+    "chunk_types": {
+      "prose": 6
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#99",
+      "#115"
+    ]
+  },
+  "KB0018926": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 9,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018926_Thailand_New_Joiner_FAQs.html"
+    ],
+    "countries": [
+      "Thailand"
+    ],
+    "avg_chars": 1212,
+    "min_chars": 406,
+    "max_chars": 1486,
+    "chunk_types": {
+      "prose": 9
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#116"
+    ]
+  },
+  "KB0018982": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 8,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0018982_US_New_Joiner_FAQs.html"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "avg_chars": 1271,
+    "min_chars": 405,
+    "max_chars": 1491,
+    "chunk_types": {
+      "prose": 8
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#149"
+    ]
+  },
+  "KB0019184": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 4,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0019184_Leavers_FAQs_Germany.html"
+    ],
+    "countries": [
+      "Germany"
+    ],
+    "avg_chars": 1360,
+    "min_chars": 1089,
+    "max_chars": 1467,
+    "chunk_types": {
+      "prose": 4
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#79"
+    ]
+  },
+  "KB0019257": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 12,
+    "source_count": 2,
+    "sources": [
+      "Leave Program - Indonesia.pdf",
+      "ServiceNow_KB_KB0019257_Hitachi_Leave_Program_Indonesia.html"
+    ],
+    "countries": [
+      "Indonesia"
+    ],
+    "avg_chars": 594,
+    "min_chars": 46,
+    "max_chars": 1828,
+    "chunk_types": {
+      "table": 4,
+      "prose": 2,
+      "section": 6
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 1,
+    "questions": [
+      "#98"
+    ]
+  },
+  "KB0019287": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 3,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0019287_Regional_HR_Document_Repository_United_States.html"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "avg_chars": 1367,
+    "min_chars": 1170,
+    "max_chars": 1475,
+    "chunk_types": {
+      "prose": 3
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#149"
+    ]
+  },
+  "KB0019453": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 5,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0019453_Krak\u00f3w_-_Bonus_Plans_Hitachi_Vantara_Poland.html"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "avg_chars": 1402,
+    "min_chars": 1104,
+    "max_chars": 1490,
+    "chunk_types": {
+      "prose": 5
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#135"
+    ]
+  },
+  "KB0019487": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 6,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0019487_HR_Connect_Policies_AMER_Region.html"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "avg_chars": 1062,
+    "min_chars": 750,
+    "max_chars": 1487,
+    "chunk_types": {
+      "prose": 6
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#149"
+    ]
+  },
+  "KB0019759": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 576,
+    "source_count": 32,
+    "sources": [
+      "Job Aid_EE_GPM_Employee Opportunity graph_Updated.pdf",
+      "Job Aid_EE_Onboarding_Generic Onboarding Guide (New Hire).pdf",
+      "Job Aid_EE_Recruiting_Career Connect (Job Hub).pdf",
+      "Job Aid_EE_Recruiting_Internal Job Apply & Job Alerts (Employees).pdf",
+      "Job Aid_EE_Recruiting_Recruiting Terminology.pdf",
+      "Job Aid_EE_Recruiting_Refer a Candidate (Employees).pdf",
+      "QRG_EE (GL Only)_GPM_YE_How to Acknowledge a Year-End Review.pdf",
+      "QRG_EE_Absence_Request Absence.pdf",
+      "QRG_EE_Core HCM_Career Information Update.pdf",
+      "QRG_EE_Core HCM_Contact Information Change.pdf",
+      "QRG_EE_Core HCM_Delegations.pdf",
+      "QRG_EE_Core HCM_Emergency Contacts Update, Home Address.pdf",
+      "QRG_EE_Core HCM_Flexible Work Arrangement.pdf",
+      "QRG_EE_Core HCM_Gender Transition Process Guide.pdf",
+      "QRG_EE_Core HCM_Legal name Change.pdf",
+      "QRG_EE_Core HCM_Personal Information Change, Gender, DOB.pdf",
+      "QRG_EE_Core HCM_Photo Change.pdf",
+      "QRG_EE_Core HCM_Preferred name Change.pdf",
+      "QRG_EE_Core HCM_Pronoun Change.pdf",
+      "QRG_EE_Core HCM_Submitting Resignation.pdf",
+      "QRG_EE_GPM_Goals Setting_Add, Edit or Archive Goals after the goal setting.pdf",
+      "QRG_EE_GPM_Goals Setting_Complete and submit Goal setting form.pdf",
+      "QRG_EE_GPM_Real Time Feedback \u2013 Give, Get or Request and View Feedback.pdf",
+      "QRG_EE_GPM_Real Time Feedback \u2013 View Feedback on Team members.pdf",
+      "QRG_EE_GPM_YE_Complete Self Evaluation.pdf",
+      "QRG_EE_HX_Core HCM_Business Title Change.pdf",
+      "QRG_EMP_ER_Acknowledge a Performance Improvement Plan.pdf",
+      "QRG_HR_Core HCM_Basic Concepts - Employee Direct Access.pdf",
+      "QRG_HR_Core HCM_Contractor Guidelines.pdf",
+      "QRG_HR_Core HCM_Getting Started.pdf",
+      "QRG_MGR_Core HCM_Checking Status and Cancelling HiNext Transactions.pdf",
+      "ServiceNow_KB_KB0019759_Welcome_to_HiNext_Hub_Employees_Global.html"
+    ],
+    "countries": [
+      "GLOBAL",
+      "India",
+      "United Kingdom",
+      "United States"
+    ],
+    "avg_chars": 523,
+    "min_chars": 21,
+    "max_chars": 3200,
+    "chunk_types": {
+      "section": 369,
+      "table": 205,
+      "prose": 2
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 15,
+    "questions": [
+      "#78",
+      "#125"
+    ]
+  },
+  "KB0019772": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 9,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0019772_The_Pulse_of_United_Kingdom_UK_Employee_Benefits_FAQ.html"
+    ],
+    "countries": [
+      "United Kingdom"
+    ],
+    "avg_chars": 1319,
+    "min_chars": 930,
+    "max_chars": 1476,
+    "chunk_types": {
+      "prose": 9
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#145",
+      "#68"
+    ]
+  },
+  "KB0019774": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 7,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0019774_Hitachi_Insights_2025_Global_Employee_Survey_Global.html"
+    ],
+    "countries": [
+      "Japan"
+    ],
+    "avg_chars": 1237,
+    "min_chars": 523,
+    "max_chars": 1454,
+    "chunk_types": {
+      "prose": 7
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#115"
+    ]
+  },
+  "KB0019827": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 8,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0019827_Offboarding_FAQ_Global.html"
+    ],
+    "countries": [
+      "GLOBAL"
+    ],
+    "avg_chars": 1386,
+    "min_chars": 273,
+    "max_chars": 1901,
+    "chunk_types": {
+      "section": 8
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#79"
+    ]
+  },
+  "KB0019838": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 162,
+    "source_count": 10,
+    "sources": [
+      "Hitachi Vantara Remote Work Policy for Poland_APR2023.pdf",
+      "Hitachi Vantara Remote Work Policy for Poland_APR2023_EN final.pdf",
+      "PL 2023_Information for the employee - bilingual final.pdf",
+      "Poland Car Policy Addendum ENG SEP23.pdf",
+      "Regulamin wynagradzania 04.2023 Warszawa.pdf",
+      "Rozporzadzenie dot szkolen i rozwoju pracownik\u00f3w (PL) 2022.pdf",
+      "ServiceNow_KB_KB0019838_HR_Document_Repository_Hitachi_Vantara_Poland.html",
+      "Terms of remuneration (EN) 04.2023 Warsaw.pdf",
+      "Training and development policy for Polish Employees (EN) 2022.pdf",
+      "Zasady Korzystania z Samochod\u00f3w S\u0142u\u017cbowych Obowi\u0105zuj\u0105ce w Sp\u00f3\u0142ce Hitachi Vantara PL SEP23.pdf"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "avg_chars": 1245,
+    "min_chars": 55,
+    "max_chars": 3982,
+    "chunk_types": {
+      "section": 95,
+      "prose": 13,
+      "table": 54
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#135"
+    ]
+  },
+  "KB0019841": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 54,
+    "source_count": 4,
+    "sources": [
+      "HD Allianz INFO insurances and pension plan.pdf",
+      "HD Allianz Insurance Declaration (Deklaracja ubezpieczenia Allianz).pdf",
+      "HD Deklaracja przyst\u0105pienia Allianz_PL-UKR.pdf",
+      "ServiceNow_KB_KB0019841_Benefits_-_ALLIANZ_Insurance_Hitachi_Digital_Poland.html"
+    ],
+    "countries": [
+      "Poland"
+    ],
+    "avg_chars": 1779,
+    "min_chars": 26,
+    "max_chars": 13242,
+    "chunk_types": {
+      "section": 35,
+      "table": 19
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 2,
+    "questions": [
+      "#78"
+    ]
+  },
+  "KB0019898": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 40,
+    "source_count": 2,
+    "sources": [
+      "FY26 ACR Employee FAQ_031226.pdf",
+      "ServiceNow_KB_KB0019898_FY26_Annual_Compensation_Review_FAQs_HR_Global.html"
+    ],
+    "countries": [
+      "United States"
+    ],
+    "avg_chars": 860,
+    "min_chars": 35,
+    "max_chars": 2948,
+    "chunk_types": {
+      "table": 6,
+      "faq_pair": 17,
+      "section": 16,
+      "prose": 1
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 1,
+    "questions": [
+      "#76"
+    ]
+  },
+  "KB0019900": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 883,
+    "source_count": 38,
+    "sources": [
+      "Job Aid_HR_Core HCM_Reports.pdf",
+      "Job Aid_HR_Recruiters_MGR_Create Job Requistion Basics_DS&HV.pdf",
+      "Job Aid_HR_Recruiters_MGR_Create Job Requistion Basics_HD.pdf",
+      "Job Aid_HR_Recruiting_Create Job Requisition (Recruiter & HR & Manager).pdf",
+      "Job Aid_HR_Recruiting_Job Application Process (Manager).pdf",
+      "Job Aid_HR_Recruiting_Manage Job Requisition (Manager).pdf",
+      "Job Aid_HR_Recruiting_Offer Letter (Recruiter, HR & Manager).pdf",
+      "Job Aid_MGR_Core HCM_Request Compensation Change.pdf",
+      "Job Aid_MGR_Onboarding_Generic Onboarding Guide (Hiring Managers).pdf",
+      "Job Aid_Recruiting_Manage Job Requisition (Recruiter & HR).pdf",
+      "QRG_HR_Core HCM_Approving Employee Resignation.pdf",
+      "QRG_HR_Core HCM_Basic Concepts - Manager Direct Access.pdf",
+      "QRG_HR_Core HCM_Compensation Change.pdf",
+      "QRG_HR_Core HCM_Compensation Overview.pdf",
+      "QRG_HR_Core HCM_One Time Payment.pdf",
+      "QRG_HR_Recruiters_MGR_Recruiting_Approve Job Requisition.pdf",
+      "QRG_HR_Recruiters_MGR_Recruiting_Search Existing Candidates.pdf",
+      "QRG_HR_Recruiters_Recruiting_Manage Duplicate Candidates.pdf",
+      "QRG_MGR_Core HCM_Add or Change Contract.pdf",
+      "QRG_MGR_Core HCM_Approving Employee Resignation.pdf",
+      "QRG_MGR_Core HCM_Bonus Plan Correction.pdf",
+      "QRG_MGR_Core HCM_Business Title Change\u00a0 (OpCos - HD,DS,HV).pdf",
+      "QRG_MGR_Core HCM_Change Organization Assignment.pdf",
+      "QRG_MGR_Core HCM_Cost Center Change.pdf",
+      "QRG_MGR_Core HCM_Flexible Work Arrangement.pdf",
+      "QRG_MGR_Core HCM_Job Details Change (Fixed term Contract Extension).pdf",
+      "QRG_MGR_Core HCM_Manager Change (Quick Action).pdf",
+      "QRG_MGR_Core HCM_Manager Move Workers (Supervisory).pdf",
+      "QRG_MGR_Core HCM_Quick Actions Change Job.pdf",
+      "QRG_MGR_Core HCM_Termination (Voluntary or Mutual Separation).pdf",
+      "QRG_MGR_Core HCM_Transfer an Employee.pdf",
+      "QRG_MGR_Core HCM_Work Location Change (Quick Action).pdf",
+      "QRG_MGR_ER_How to initiate, complete and submit a Performance Improvement Plan.pdf",
+      "QRG_MGR_GPM_Goals_How to review and approve goal setting form.pdf",
+      "QRG_MGR_GPM_Goals_How to view or export team members' goals and form statuses.pdf",
+      "QRG_MGR_GPM_YE_Complete a Manager Evaluation.pdf",
+      "QRG_MGR_GPM_YE_\u2018Send Back\u2019 direct report\u2019s self-evaluation form.pdf",
+      "ServiceNow_KB_KB0019900_Welcome_to_HiNext_Hub_Managers_Global.html"
+    ],
+    "countries": [
+      "GLOBAL",
+      "India",
+      "United States",
+      "Vietnam"
+    ],
+    "avg_chars": 504,
+    "min_chars": 21,
+    "max_chars": 2903,
+    "chunk_types": {
+      "section": 577,
+      "table": 306
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 21,
+    "questions": [
+      "#4,#136",
+      "#121",
+      "#78",
+      "#125"
+    ]
+  },
+  "KB0019901": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 1573,
+    "source_count": 56,
+    "sources": [
+      "HiNext_Report Mapping_DEAI BU.pdf",
+      "Job Aid_HR_Core HCM Delegation Change.pdf",
+      "Job Aid_HR_Core HCM_Additional Job.pdf",
+      "Job Aid_HR_Core HCM_Contract Contingent Worker.pdf",
+      "Job Aid_HR_Core HCM_Document Digitalization.pdf",
+      "Job Aid_HR_Core HCM_Edit Job.pdf",
+      "Job Aid_HR_Core HCM_Feedback.pdf",
+      "Job Aid_HR_Core HCM_HiNext Glossary for HR.pdf",
+      "Job Aid_HR_Core HCM_Hire an Employee (GL).pdf",
+      "Job Aid_HR_Core HCM_Hire an Employee (OpCos - HD,DS,HV).pdf",
+      "Job Aid_HR_Core HCM_Job Change.pdf",
+      "Job Aid_HR_Core HCM_Move Workers (Supervisory).pdf",
+      "Job Aid_HR_Core HCM_New Reference Letter.pdf",
+      "Job Aid_HR_Core HCM_Organization Reference for HR.pdf",
+      "Job Aid_HR_Core HCM_Request Compensation Change.pdf",
+      "Job Aid_HR_Core HCM_Request One Time Payment.pdf",
+      "Job Aid_HR_Core HCM_SVO Management.pdf",
+      "Job Aid_HR_Core HCM_Security for HR.pdf",
+      "Job Aid_HR_Core HCM_Terminate an Employee.pdf",
+      "Job Aid_HR_Learning_How a Learning Trainer can update course completions.pdf",
+      "Job Aid_HR_Onboarding_Generic Onboarding Guide (HR).pdf",
+      "Job Aid_HR_Recruiting_Candidate Confirmed Opt In or Opt out (Recruiter).pdf",
+      "Job Aid_HR_Recruiting_Career Sites  Job Posting (Recruiter).pdf",
+      "Job Aid_HR_Recruiting_Confidential Job Application Process (Recruiter).pdf",
+      "Job Aid_HR_Recruiting_Create Candidate Pool (Recruiter).pdf",
+      "Job Aid_HR_Recruiting_Create Confidential Job Requisition (Recruiter).pdf",
+      "Job Aid_HR_Recruiting_Create Confidential Prospects (Recruiter).pdf",
+      "Job Aid_HR_Recruiting_Create Manage Evergreen Requisition (Recruiter).pdf",
+      "Job Aid_HR_Recruiting_Create Prospects and Candidate Home (Recruiter).pdf",
+      "Job Aid_HR_Recruiting_Job Application Process (Recruiter Onboarding).pdf",
+      "Job Aid_HR_Recruiting_Navigating Recruiting Worklet (Recruiter).pdf",
+      "Job Aid_HR_Recruiting_Recruiting Agency (Agency Users).pdf",
+      "Job Aid_HR_Recruiting_Sign Offer Letter DocuSign (Recruiter).pdf",
+      "QRG_EE_Learning_Manage Roster Grading and Attendance.pdf",
+      "QRG_HRBP_ER_Approve Performance Improvement Plan.pdf",
+      "QRG_HR_Core HCM_Change Organization Assignment.pdf",
+      "QRG_HR_Core HCM_Exit Withdrawal Process.pdf",
+      "QRG_HR_Core HCM_Involuntary Exit Process.pdf",
+      "QRG_HR_Core HCM_Job Change, Promotion, Transfer.pdf",
+      "QRG_HR_Core HCM_LWD Changes.pdf",
+      "QRG_HR_Core HCM_Leave of Absence.pdf",
+      "QRG_HR_Core HCM_Move Worker - Bulk Manager Changes.pdf",
+      "QRG_HR_Core HCM_Probation Process.pdf",
+      "QRG_HR_Core HCM_Resignation acceptance letters and Relieving letters.pdf",
+      "QRG_HR_Core HCM_Termination Process.pdf",
+      "QRG_HR_ER_Disciplinary Actions.pdf",
+      "QRG_HR_Learning_How a Learning Trainer can find and download a course roster.pdf",
+      "QRG_HR_Paradox_How to cancel via an action email.pdf",
+      "QRG_HR_Paradox_How to download the browser extension.pdf",
+      "QRG_HR_Paradox_How to manage your calendar best for interview scheduling (via SKYE).pdf",
+      "QRG_HR_Paradox_How to reschedule via an action email.pdf",
+      "QRG_HR_Paradox_How to respond to your calendar invite correctly.pdf",
+      "QRG_HR_Recruiters_Recruiting_How to Add Candidate Tags.pdf",
+      "QRG_HR_Recruiters_Recruiting_Reject Candidates.pdf",
+      "QRH_HR_Payroll_Download a Payroll File in HiNext.pdf",
+      "ServiceNow_KB_KB0019901_Welcome_to_HiNext_Hub_HRs_Global.html"
+    ],
+    "countries": [
+      "Australia",
+      "Canada",
+      "GLOBAL",
+      "India",
+      "Singapore",
+      "United States",
+      "Vietnam"
+    ],
+    "avg_chars": 527,
+    "min_chars": 22,
+    "max_chars": 2831,
+    "chunk_types": {
+      "table": 598,
+      "section": 953,
+      "prose": 22
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 45,
+    "questions": [
+      "#4,#136",
+      "#121",
+      "#5"
+    ]
+  },
+  "KB0057381": {
+    "indexed": true,
+    "status": "INDEXED",
+    "chunk_count": 10,
+    "source_count": 1,
+    "sources": [
+      "ServiceNow_KB_KB0057381_India_New_Joiner_FAQs.html"
+    ],
+    "countries": [
+      "India"
+    ],
+    "avg_chars": 1287,
+    "min_chars": 948,
+    "max_chars": 1490,
+    "chunk_types": {
+      "prose": 10
+    },
+    "html_chunks": 0,
+    "tiny_chunks": 0,
+    "questions": [
+      "#116"
+    ]
+  }
+}

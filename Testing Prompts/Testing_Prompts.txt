@@ -1,0 +1,55 @@
+﻿Prompts for Testing:
+1. What is the anti-bribery policy for grease payments?
+2. Is it ok to give money, gifts and dinner reservations to government officials to get important permits?
+3. Is it ok if I take a customer or a business partner for dinner in an expensive restaurant? 
+4. What is the policy of gift giving for contractors?
+5. What is the procedure for gift giving worth more than $500?
+6. When is an NDA required with a supplier?
+7. What is a P-Card used for?
+8. Can consultants sign contracts on behalf of the company?
+9. Is pre-approval required for business travel?
+10. Who is responsible for complying with the Travel and Expense Policy?
+11. Can corporate cards be used for business travel expenses?
+12. Does the policy apply to contractors and consultants?
+13. Can the corporate card be used for personal expenses?
+14. Are cardholders required to submit receipts for corporate card expenses?
+15. What should be done when an employee leaves the company regarding the corporate card?
+16. What is the purpose of the Global Corporate Card Program Policy?
+17. What are some of the approval levels?
+18. What are some of the travel and expense rules?
+19. are there any rules w.r.t awards?
+20. are there rules for specific departments vs individuals?
+21. give me rules for anti bribery and charity
+22. Can I use my P-card to buy office supplies like notebooks, cables, or mouse?
+23. What is the maximum amount I can spend in a single transaction using a P-card?
+24. Is there a monthly spending limit on my P-card?
+25. Can I split one large purchase into multiple smaller transactions to stay within the P-card limit?
+26. Am I allowed to use the P-card to buy food or catering for a team meeting?
+27. Can I use the P-card to pay for online subscriptions or SaaS tools?
+28. Is it allowed to purchase software using the P-card?
+29. Can I use my P-card for travel expenses like flights or hotel bookings?
+30. Is using the P-card at restaurants allowed if it is not related to travel?
+31. What should I do if a vendor does not accept the P-card?
+32. Do I need to submit receipts for every P-card transaction?
+33. What happens if I lose the receipt for a P-card purchase?
+34. Who is responsible for paying the P-card bill, me or the company?
+35. Do I still need to submit an expense report for P-card transactions?
+36. Can my manager see or review what I purchase using the P-card?
+37. What should I do if I accidentally make a personal purchase on my P-card?
+38. Are gifts or gift cards allowed to be purchased using a P-card?
+39. Can I use the P-card to buy small tools or equipment for work?
+40. Do I need manager approval before making a P-card purchase?
+41. What should I do if I see an incorrect or duplicate charge on my P-card statement?
+42. Can contractors or consultants use a company P-card?
+43. What happens if I misuse the P-card?
+44. Can my P-card be blocked or cancelled if there is a policy violation?
+45. Is the P-card allowed to be used for emergency purchases?
+46. Who should I contact if I am not sure whether a purchase is allowed on the P-card?
+47. Can I use the P-card for purchases above the limit if my manager approves it?
+48. Is buying lunch for the team allowed using the P-card?
+49. Can I use the P-card to pay for conference or seminar registration fees?
+50. Are promotional items for customers allowed to be purchased using the P-card?
+51. Can I use the P-card when the procurement system is not working?
+52. What happens if I don’t submit my P-card expense report on time?
+53. Are the P-card rules or limits different for regions like APAC or EMEA?
+

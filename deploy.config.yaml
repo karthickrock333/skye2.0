@@ -1,0 +1,43 @@
+# =============================================================================
+# HD SKYE Agent v2 - Deployment Configuration
+# =============================================================================
+# This file defines the deployment parameters for the HD SKYE Agent v2 service.
+# Used by: deploy/deploy.sh
+# =============================================================================
+
+# Service Information
+service_name: hd-hd1ai-skye-agent
+description: "HD SKYE - Agentic HR RAG Agent"
+repository: hd1d-finance-platform
+
+# Docker Configuration
+dockerfile: Dockerfile
+
+# Cloud Run Configuration
+port: 8000
+memory: 2Gi
+cpu: 2
+min_instances: 0
+max_instances: 10
+timeout: 300s
+concurrency: 100
+
+# Security & Access
+allow_unauthenticated: false
+enable_iap: false
+no_cpu_throttling: true
+session_affinity: true
+ingress: all
+
+# Environment Variables (use ${PROJECT_ID} and ${ENVIRONMENT} as placeholders)
+# These are defaults, overridden by env/*.yaml files
+env_vars:
+  NODE_ENV: production
+
+# Build Arguments for VITE_ variables (injected at Docker build time)
+# VITE_API_BASE_URL is empty since frontend and backend are served from same origin
+build_args:
+  VITE_API_BASE_URL: ""
+
+# Secrets (format: ENV_VAR=secret-name:version)
+# secrets: "API_KEY=api-key-secret:latest"

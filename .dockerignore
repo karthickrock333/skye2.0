@@ -1,0 +1,99 @@
+# =============================================================================
+# HD SKYE Agent v2 - Docker Ignore
+# =============================================================================
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Environment files (secrets)
+.env
+.env.*
+!.env.example
+env/*.yaml
+
+# Auth / credential files
+auth.json
+*.json
+!package.json
+!tsconfig.json
+!components.json
+!hd-onedata-prod.json
+
+# Python cache
+__pycache__
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+*.egg
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# Node modules (frontend builds in container)
+frontend/node_modules/
+frontend/dist/
+node_modules/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+build/
+*.log
+
+# Test files
+tests/
+test/
+*_test.py
+test_*.py
+coverage/
+.coverage
+htmlcov/
+pytest.ini
+
+# Documentation
+docs/
+*.md
+!README.md
+
+# Scripts (not needed in container)
+scripts/
+
+# Local development
+*.local
+.local/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# ADK local session data
+backend/agents/.adk/
+
+# Debug / test scripts at root
+check_*.py
+create_*.py
+debug_*.py
+list_*.py
+test*.py
+run_local.sh

@@ -1,0 +1,37 @@
+# ─── Google ADK ──────────────────────────────────────────────────────────────
+google-adk>=0.4.0
+
+# ─── Google Cloud ────────────────────────────────────────────────────────────
+google-cloud-storage
+google-cloud-aiplatform
+google-cloud-logging
+google-cloud-discoveryengine
+google-cloud-translate
+google-cloud-firestore
+google-cloud-documentai
+google-cloud-bigquery
+# Note: vertexai is included in google-cloud-aiplatform, no need to specify separately
+
+# ─── FastAPI Backend ─────────────────────────────────────────────────────────
+fastapi
+uvicorn[standard]
+pydantic>=2.0.0
+python-multipart
+
+# ─── Parsing / Rendering ─────────────────────────────────────────────────────
+pypdf
+python-docx
+langdetect
+markdown
+
+# ─── Cache ───────────────────────────────────────────────────────────────────
+redis
+
+# ─── Utils ───────────────────────────────────────────────────────────────────
+python-dotenv
+numpy
+httpx
+
+# ─── Testing ─────────────────────────────────────────────────────────────────
+pytest
+pytest-asyncio

@@ -1,0 +1,8 @@
+Role based questions:
+Reporting to Vinay
+1. What are the vacations of my employee Praveen Jain?
+
+Reporting to Maria Luna
+2. What are the holidays for Izabela Lukasik?
+3. Will my employee Sara Terese Kim have a holiday on 3rd July 2026?
+4. Jakie są święta Anny Czermińskiej?
