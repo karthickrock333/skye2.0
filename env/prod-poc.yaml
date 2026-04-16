@@ -1,0 +1,98 @@
+# =============================================================================
+# HD SKYE Agent v2 - PROD-POC Environment Configuration
+# =============================================================================
+
+project_id: hd-procurement-poc-gemini
+
+# Service Information
+service_name: hd-hd1ai-skye-agent-ui
+
+# Custom service account for PROD-POC environment
+service_account: hitachi-fin-service-account@hd-procurement-poc-gemini.iam.gserviceaccount.com
+
+# Build Arguments for VITE_ variables (injected at Docker build time)
+# VITE_API_BASE_URL is empty since frontend and backend are served from same origin
+build_args:
+  VITE_API_BASE_URL: ""
+
+# Runtime Environment Variables for Cloud Run
+env_vars:
+  PROJECT_ID: hd-procurement-poc-gemini
+  REGION: us-central1
+  BIGQUERY_PROJECT_ID: hd-onedata-prod
+  BIGQUERY_APPLICATION_CREDENTIALS: /app/hd-onedata-prod.json
+  GCS_BUCKET_NAME: hd-procurement-rag-hr-docs
+  INDEX_ID: "2150937214022844416"
+  INDEX_ENDPOINT_ID: projects/822889905902/locations/us-central1/indexEndpoints/3200084612176936960
+  DEPLOYED_INDEX_ID: rag_hr_deployed_index_1769185226367
+  FIRESTORE_COLLECTION: hr_policy_chunks
+  JAPANESE_INDEX_ENDPOINT_ID: projects/822889905902/locations/us-central1/indexEndpoints/5941807015989870592
+  JAPANESE_DEPLOYED_INDEX_ID: skye_japanese_index_1770116934028
+  JAPANESE_FIRESTORE_COLLECTION: japanese_policy_chunks
+  DOCUMENT_AI_OCR_ID: 4b48b85382b8fbcd
+  DOCUMENT_AI_FORM_PARSER_ID: f0f9c44007862ef
+  DOCUMENT_AI_LOCATION: us
+  TENANT: hd-skye
+  HD_SKYE_INDEX_ID: "5499152430740275200"
+  HD_SKYE_INDEX_ENDPOINT_ID: projects/822889905902/locations/us-central1/indexEndpoints/5941807015989870592
+  HD_SKYE_DEPLOYED_INDEX_ID: hd_skye2_0_1770819499750
+  HD_SKYE_FIRESTORE_DB: hd-skye-db
+  HD_SKYE_FIRESTORE_COLLECTION: hd-skye-2-0-chunks
+  HD_SKYE_GCS_BUCKET_NAME: hd-skye-rag-us-central1
+  HD_SKYE_2_0_GCS_PREFIX: hd-skye-2.0/
+  HD_SKYE_DOCUMENTS_PREFIX: hd-skye-2.0/Documents/
+  # ServiceNow KB Index (separate endpoint + separate Firestore DB)
+  SERVICENOW_INDEX_ENDPOINT_ID: projects/822889905902/locations/us-central1/indexEndpoints/6766282407147470848
+  SERVICENOW_DEPLOYED_INDEX_ID: hd_skye_agents_servicenow
+  SERVICENOW_FIRESTORE_DB: hd-skye-db-servicenow
+  SERVICENOW_FIRESTORE_COLLECTION: hd-skye-chunks-servicenow
+  # P-Card Index (on ServiceNow endpoint)
+  PCARD_DEPLOYED_INDEX_ID: p_card_1774597634873
+  PCARD_FIRESTORE_DB: hd-skye-db-servicenow
+  PCARD_FIRESTORE_COLLECTION: p-card_policy
+  # Bulk Expense Index (on ServiceNow endpoint)
+  BULK_EXP_DEPLOYED_INDEX_ID: Bulk_Exp
+  BULK_EXP_FIRESTORE_DB: hd-skye-db-servicenow
+  BULK_EXP_FIRESTORE_COLLECTION: bulk-expense
+  # APAC Payroll Index (Firestore moved to ServiceNow DB)
+  APAC_PAYROLL_FIRESTORE_DB: hd-skye-db-servicenow
+  APAC_PAYROLL_FIRESTORE_COLLECTION: apac-payroll-chunks
+  # Dynamic Index Groups — comma-separated list of groups to search.
+  # Available groups: main, apac_payroll, servicenow_kb, pcard, bulk_exp
+  ENABLED_INDEX_GROUPS: servicenow_kb,pcard,bulk_exp
+  # Agent Variant Configuration
+  VARIANT_MAIN_INDEX_GROUPS: servicenow_kb,main,apac_payroll,pcard,bulk_exp
+  VARIANT_PCARD_INDEX_GROUPS: servicenow_kb,pcard
+  VARIANT_BULK_EXPENSE_INDEX_GROUPS: servicenow_kb,bulk_exp
+  VARIANT_PAYROLL_INDEX_GROUPS: apac_payroll
+  DEFAULT_VARIANT: main
+  # Index priority — which index groups get a score boost during reranking
+  VARIANT_MAIN_PRIORITY_GROUPS: ""
+  VARIANT_PCARD_PRIORITY_GROUPS: pcard
+  VARIANT_BULK_EXPENSE_PRIORITY_GROUPS: bulk_exp
+  VARIANT_PAYROLL_PRIORITY_GROUPS: apac_payroll
+  INDEX_PRIORITY_BOOST: "0.20"
+  # Region filter mode — controls which users get region-based result filtering
+  # Options: all, managers_up, vp_up, none
+  REGION_FILTER_MODE: "all"
+  NODE_ENV: production
+  BQ_USER_SNAPSHOT_TABLE: hd-onedata-prod.hd1d_consumption_hds_hr.hr_worker_snapshot_ds_hyperion_feed_hds_erp_vw
+  BQ_MANAGER_SNAPSHOT_TABLE: hd-onedata-prod.hd1d_consumption_hds_hr.hr_worker_snapshot_manager_okta_hds_erp_vw
+  BQ_GBLC_LIFECYCLE_TABLE: hd-onedata-prod.hd1d_consumption_gblc_hr.hr_worker_lifecycle_assignment_gblc_erp_vw
+  BQ_GBLC_JOB_MAP_TABLE: hd-onedata-prod.hd1d_mdm.hr_hinext_gblc_job_family_map
+  SUPER_ADMIN_EMAILS: imtiaz.shaikh@hitachidigital.com,shrimant.jaruhar@hitachidigital.com,maria.luna@hitachidigital.com,kishore.babu@hitachidigital.com,pavithra.narayanan@hitachidigital.com,anuj.karn@hitachidigital.com,shrutika.bhapkar@hitachidigital.com,karthick.rathinam@hitachidigital.com,aravind.maguluri@hitachidigital.com,vinay.rao@hitachidigital.com
+  REDIS_HOST: 10.180.68.37
+
+# Prod-POC-specific Cloud Run settings
+memory: 2Gi
+cpu: 2
+min_instances: 1
+max_instances: 10
+timeout: 300s
+
+# Security & Access
+allow_unauthenticated: false
+enable_iap: true
+no_cpu_throttling: true
+session_affinity: true
+ingress: all
